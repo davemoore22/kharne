@@ -1,0 +1,245 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Laroth the Level 2 elf Warrior
+
+Began the game on 03/03/2010 03:53:45
+Died 652 turns later on 03/03/2010 03:58:01 after 0h 4m 15s
+You were killed by a Kobold on Level 1 of the The Fortress of Ablach
+
+He scored 699 points
+
+-------
+Summary
+-------
+
+HP: 0/33
+MP  7/7	
+AC: 22	
+EV: 12
+SP: 5
+
+Gold: 54
+
+XP: 515/680
+
+----------
+Attributes
+----------
+
+Strength: 16 (6)
+Agility: 16 (6)
+Endurance: 16 (6)
+Intelligence: 11 (1)
+Resolve: 14 (4)
+Charisma: 11 (1)
+
+------
+Combat
+------
+
+Accuracy: 7
+Damage: 3
+Blocking: 10
+Deflection: 7
+
+------
+Skills
+------
+
+Fighting: 6
+ Melee Combat: 4
+ Ranged Combat: 2
+ Unarmed Combat: 0
+
+Defense: 3
+ Heavy Armour: 3
+ Medium Armour: 1
+ Light Armour: 1
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 9
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Bronze Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: A Steel Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: The ancient artifact "Cralgrin" (1167 gp)
+  
+it increases your chance of blocking blows (+3)
+it increases your armour class (+2)
+it increases your regeneration 
+
+Legs: Some Zinc Cuisses [4, +0] (8 gp)
+Feet: Some Mithril Kickers [3, +0] (4 gp)
+Mainhand: A Steel Warhammer [+2, +1] of Combat Mastery (770 gp)
+  
+it increases your chance to hit (+1)
+it increases your chance to hit (+1)
+it increases the damage you deal (+1)
+
+Offhand: An Iron Medium Shield [3, +1] of the Torrents (590 gp)
+  
+it increases your resistance to water magic (+9)
+it increases your armour class (+1)
+
+Ranged: A Fur Sling [+1, +1] of Health (1122 gp)
+  
+it increases your health (+6)
+it increases the damage you deal (+1)
+it increases your chance to hit (+1)
+
+Back: [EMPTY]
+Left Finger: A Copper Ring of Deflection (157 gp)
+  
+it increases your chance of avoiding a blow (+1)
+
+Right Finger: A Zinc Ring of Goblin Slaying (512 gp)
+  
+it increases your damage against elementals (+1)
+it increases your damage against goblins (+1)
+
+
+Carried:
+
+Some Fruit (1 gp)
+Some Mushrooms (1 gp)
+2 Loaves of Bread (1 gp)
+Some Waybread (1 gp)
+An Iron Ring of Outsider Slaying (108 gp)
+  
+it increases your damage against outsiders (+1)
+
+A Copper Medium Shield [3, +1] (21 gp)
+  
+it increases your armour class (+1)
+
+Some Zinc Wristguards [3, +1] (51 gp)
+  
+it increases your armour class (+1)
+
+An Adamantine Amulet of Brawn (114 gp)
+  
+it increases your strength (+1)
+
+An Adamantine Amulet of Absorption (105 gp)
+  
+it increases your chance of blocking blows (+1)
+
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#####################
+#####################
+#####################
+#####################
+####$.$...~~~########
+####.######~~~.k..###
+####.##k..@#~########
+####..#....#.########
+####+.....k#.########
+##~##~######.########
+##~##k######.########
+##~##+######.########
+..~##~######~########
+
+You could see: 
+ kk Kobolds
+ g Goblin
+
+--------
+Messages
+--------
+
+A Kobold appears!
+A Kobold appears!
+The Kobold hits you but misses badly
+The Kobold picks a chunk of rotten meat from its teeth
+The Kobold shoots you
+The Kobold yips noisily
+You hit the Kobold
+The Kobold shoots you
+You hit the Kobold
+You have killed the Kobold!
+The Goblin hits you
+*** LOW HITPOINT WARNING ***
+The Goblin swings at you
+You hit the Goblin
+The Goblin swings at you
+You hit the Goblin
+You have killed the Goblin!
+The Kobold shoots you
+You were killed by a Kobold
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 6 Greedy Adventurers
+ 7 Xvarts
+ 6 Goblins
+ 4 Kobolds
+ 2 Gnolls
+ 2 Quaggoths
+ 1 Snake
+ 1 Griffon
+ 1 Trogg
+
+Total: 30 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Laroth the Elf Warrior started to explore the Multiverse
+0000348 The Fortress of Ablach 1  Reached Level 2, HP: 22/33, MP: 7/7
+0000652 The Fortress of Ablach 1  Killed by a Kobold
+

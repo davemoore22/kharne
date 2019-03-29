@@ -1,0 +1,81 @@
+**********************************************************************
+Author: TMS Software
+        Copyright © 2003-2004 
+        E-mail: info@tmssoftware.com
+        Web: http://www.tmssoftware.com
+**********************************************************************
+
+Delphi 5.0/6.0/7.0 & C++Builder 5.0/6.0
+
+
+Files :
+-----
+  apcd5.zip : component files for Delphi 5.0
+  apcd6.zip : component files for Delphi 6.0
+  apcd7.zip : component files for Delphi 7.0
+  apcc5.zip : component files for C++Builder 5.0
+  apcc6.zip : component files for C++Builder 6.0
+  
+Release 1.1 :
+-------------
+
+  Advanced page control and advanced tab set with custom tab background bitmaps, gradients, hovering and more...
+
+Feature Revision history :
+------------------------
+
+  19/12/2003   : first release
+  
+  25/2/2004    : added TAdvTabSet
+                 added TabStyle to simulate VS.NET or Delphi 8 Tabs
+                 improved drawing and improved tab scroll buttons
+
+  9/3/2004     : improved dotnet style appearance in TAdvTabSet, TAdvPageControl
+                  
+
+Installation :
+--------------
+
+ In Delphi 5,6,7 or C++Builder 5,6
+
+ Unzip files apcdx or apccx into a component directory
+
+ Choose : File, Open
+  
+ Browse for package file AdvpageControlDx.DPK (Delphi) or AdvPageControlCx.BPK (C++Builder)
+
+ From package editor : press Install
+
+
+Usage :
+-------
+ This component is freeware for non-commercial applications.
+ License for commercial use is equivalent to buying source code,
+ and is available for 30 EU. Licensed users get source code updates
+ for all 1.x versions. Send cheque or cash for 30 EU to the address below
+ and source code will be sent by email immediately upon receipt.
+ If you would like to register TAdvPageControl online, you can do the
+ registration at http://www.shareit.com/programs/103312.htm.
+ Alternatively, you can go to http://www.shareit.com and enter
+ the program number there: 103312. Since the online registration
+ for a TMS basic component is valid for several TMS components,
+ do not forget to request TAdvPageControl by email as well via
+ info@tmssoftware.com
+ TAdvPageControl & TAdvTabSet are also part of the TMS Component Pack, 
+ see http://www.tmssoftware.com/tmspack.htm
+
+
+Help, hints, tips, bug reports :
+------------------------------
+ Send any remarks to : help@tmssoftware.com
+ Please clearly state which Delphi or C++Builder version you are using
+ and which version of the component you are using. In case of doubt,
+ download the latest version first at http://www.tmssoftware.com
+
+
+Company information
+-------------------
+  tmssoftware.com bvba
+  Papaverstraat 10
+  B8560 Wevelgem
+  BELGIUM

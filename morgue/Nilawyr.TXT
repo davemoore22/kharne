@@ -1,0 +1,207 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Nilawyr the Level 2 Human Squire (Knight)
+
+Began the game on 19/04/2010 22:09:23
+Died 431 turns later on 19/04/2010 22:13:46 after 0h 4m 22s
+You were killed by a Jackal on Level 1 of the The Wilderlands
+
+He scored 307 points
+
+-------
+Summary
+-------
+
+HP: 0/24
+MP  10/10	
+AC: 20	
+EV: 9
+SP: 4
+
+Gold: 30
+
+XP: 213/680
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 12 (2)
+Endurance: 17 (7)
+Intelligence: 12 (2)
+Resolve: 17 (7)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 5
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Bronze Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: An Iron Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Steel Cuisses [4, +0] (8 gp)
+Feet: Some Iron Sabatons [4, +0] (5 gp)
+Mainhand: A Copper Halberd [+0, +0] (16 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+3 Waybread (1 gp)
+A Chicken Drumstick (1 gp)
+An Adamantine Ring of Animal Slaying {Cursed} (54 gp)
+  
+it decreases your damage against animals (-1)
+
+A Scroll of Cursing (36 gp)
+  
+A Copper Amulet of Elemental Slaying (109 gp)
+  
+it increases your damage against elementals (+1)
+
+An Adamantine Ring of Vigour {Cursed} (107 gp)
+  
+it decreases your regeneration 
+
+Some Fruit (1 gp)
+A Stagnant Blue Potion (4 gp)
+  
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Wilderlands : 1
+
+-------
+Dungeon
+-------
+
+##.............####..
+##.............####..
+..............%.###..
+~..####..>.......##..
+~~.##................
+~~.]................~
+..........@.........~
+...........j.........
+...##...........#~...
+##..###..........~~.#
+##..###..##......~###
+.....##..###.##.~~###
+.....##...#####.~~##~
+
+You could see: 
+ j Jackal
+
+--------
+Messages
+--------
+
+The Jackal bites you
+The Jackal bites you
+You hit the Jackal
+The Jackal bites you but misses
+The Jackal claws you
+The Jackal claws you but misses
+The Jackal bites you but misses
+The Jackal bites you
+The Jackal claws you
+The Jackal claws you but misses
+The Jackal claws you
+*** LOW HITPOINT WARNING ***
+The Jackal claws you
+The Jackal bites you but misses
+The Jackal bites you but misses
+The Jackal bites you but misses
+You hit the Jackal
+The Jackal bites you
+You were killed by a Jackal
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 6 Giant Bats
+ 2 Greedy Adventurers
+ 7 Giant Rats
+ 1 Giant Bee
+
+Total: 16 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000224 The Wilderlands 1         Reached Level 2, HP: 12/24, MP: 10/10
+0000431 The Wilderlands 1         Killed by a Jackal
+

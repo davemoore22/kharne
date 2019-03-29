@@ -1,0 +1,209 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Lotherranyth the Level 2 elf Warrior
+
+Began the game on 03/03/2010 06:02:41
+Died 915 turns later on 03/03/2010 06:07:12 after 0h 4m 30s
+You were killed by a Giant Ant on Level 2 of the The Wilderlands
+
+He scored 658 points
+
+-------
+Summary
+-------
+
+HP: 0/27
+MP  9/9	
+AC: 29	
+EV: 10
+SP: 5
+
+Gold: 186
+
+XP: 254/680
+
+----------
+Attributes
+----------
+
+Strength: 16 (6)
+Agility: 16 (6)
+Endurance: 16 (6)
+Intelligence: 12 (2)
+Resolve: 13 (3)
+Charisma: 11 (1)
+
+------
+Combat
+------
+
+Accuracy: 4
+Damage: 1
+Blocking: 9
+Deflection: 6
+
+------
+Skills
+------
+
+Fighting: 6
+ Melee Combat: 4
+ Ranged Combat: 2
+ Unarmed Combat: 0
+
+Defense: 3
+ Heavy Armour: 4
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: An Iron Helm [4, +0] (8 gp)
+Neck: A Zinc Amulet of Humanoid Slaying (166 gp)
+  
+it increases your damage against humanoids (+1)
+
+Chest: A Bronze Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: Some Iron Gauntlets [4, +1] (58 gp)
+  
+it increases your armour class (+1)
+
+Legs: Some Adamantine Greaves [6, +0] (10 gp)
+Feet: Some Bronze Sabatons [4, +0] (5 gp)
+Mainhand: A Copper Warhammer [+0, +0] (5 gp)
+Offhand: An Iron Tower Shield [5, +0] (6 gp)
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+A Haunch of Meat (1 gp)
+2 Chicken Drumsticks (1 gp)
+A Sedimented Orange Potion (120 gp)
+  
+Some Zinc Handwraps [3, +0] (7 gp)
+Some Mushrooms (1 gp)
+2 Loaves of Bread (1 gp)
+Some Fruit (1 gp)
+Some Trail Rations (1 gp)
+A Clear Black Potion (60 gp)
+  
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+The Wilderlands : 2
+
+-------
+Dungeon
+-------
+
+r....~~.~~..#########
+.....#####W.#########
+~..$.#####..#########
+##.~..####..#########
+###~~.####..#########
+###~.~###...#########
+~...~~###.@.#########
+~......##.a.#########
+#...~~$###....#######
+#..<~~~###....#######
+###..~##....#########
+~##.~~##...####...###
+..##~$##.~.##########
+
+You could see: 
+ a Giant Ant
+ W Storm Worm Vanguard
+
+--------
+Messages
+--------
+
+The Snake stings you
+You hit the Snake
+The Snake bites you but you deflect its attack
+The Snake bites you
+You hit the Snake
+The Snake stings you
+You hit the Snake
+You have killed the Snake!
+You have been interrupted - something is nearby!
+A Giant Ant appears!
+The Giant Ant bites you
+The Giant Ant bites you but misses
+You hit the Giant Ant
+The Giant Ant bites you but misses
+You hit the Giant Ant
+The Giant Ant bites you but you block its attack
+You hit the Giant Ant
+The Giant Ant bites you
+You were killed by a Giant Ant
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 3 Snakes
+ 5 Giant Bats
+ 2 Giant Bees
+ 7 Giant Rats
+ 1 Greedy Adventurer
+
+Total: 18 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Lotherranyth the Elf Warrior started to explore the Multiverse
+0000350 The Wilderlands 1         Reached Level 2, HP: 14/27, MP: 9/9
+0000830 The Wilderlands 2         Explored Level 2 of The Wilderlands
+0000915 The Wilderlands 2         Killed by a Giant Ant
+

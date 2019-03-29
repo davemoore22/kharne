@@ -1,0 +1,68 @@
+Configuring and compiling Kharne - a brief guide by Dave Moore
+
+v1 (02/10/2009)
+
+Contents:
+
+1. Introduction
+2. Required 3rd Party Components
+3. Licensing Notes
+4. Other Notes
+5. Contact Details
+
+1. Introduction
+
+Welcome to Kharne. Kharne is a standard Delphi Windows application that uses a certain number of third-party controls and libraries for additional functionality above and beyond that provided in Delphi.
+
+I have developed Kharne using Delphi 7, but provided the external controls can be installed, it should be compilable in any version of Delphi newer than 5.
+
+
+2. Required 3rd Party Components
+
+Due to licensing terms, I can't provide these components or distribute their source with my own distribution (with one exception, see below).
+
+You will need to download and install the following *before* you open the source in Delphi for the first time:
+
+a. TGradLabel - http://www.delphi32.com/vcl/929/#
+
+It is my intention to phase the use of this component out entirely.
+
+b. TAStarPathPlanneer - http://www.riversoftavg.com/tastarpathplanner.htm
+c. TQProgressBat - http://mapage.noos.fr/qnno/pages/delphi_en.htm#TQProgressBar 
+d. TSQLLite - http://www.itwriting.com/blog/a-simple-delphi-wrapper-for-sqlite-3
+
+You may need to add the path of this component to the Project Search Paths.
+
+e. THotLog - http://mapage.noos.fr/qnno/pages/delphi_en.htm#hotLog
+
+This isn't a component as such, simply copy hotlog.pas into the source directoy and make sure it is added to the project.
+
+f. TKeyboardHandler
+
+As this is no longer available *anywhere* on the web, I've included the source in the components subdirectory. Longer term I want to phase use of this component out and duplicate its functionality,
+
+g. sqlite3.dll
+
+This is the SQLLite interface library, is public domain and thus is included with this source distribution.
+
+If any of these components become unavailable, contact me (starbog@gmail.com) and I will send them to you direct (I will only do this under these circumstances). I will then try and remove any dependency upon them from the next version.
+
+3. Licensing Notes
+
+I have released Kharne under the MPL as opposed to the GPL because I'm not convinced that the latter allows a Delphi program to link with components that are not GPL themselves. 
+
+I've had a reply direct from the FSF telling me that it does provided I add an additional disclaimer to the GPL License that gives explicit permission. However, as I'm still not convinced about this (the GPL itself is quite fuzzy in this regard), I'm releasing Kharne under the MPL to avoid any doubt.
+
+However, just to clear things up, I'm am granting an irrevocable right to link my code released under the MPL to *any* other custom component, library or API no matter what the license.
+
+The source code file UnitOtherFuncs uses a few small routines freely available on the web - I have indicated carefully what these are in the source and their origins, and this file is obviously not released under the MPL.
+
+The distribution also includes a copy of the Bitstream Vera Sans Mono Font (veramono.ttf) which can be freely distributed and is in the public domain. If you are doing development, please copy this and install it in the usual way *before* opening the source code.
+
+4. Other Notes
+
+I have no idea if Kharne will compile with Lazarus, I suspect the custom components may prove to be an unsurmountable obstacle, but anyone is welcome to try porting if they wish. I'd like Kharne to run multiplatform without using WINE, but that may have to wait until cross-compiling for Delphi becomes a reality (it has been promised for the version due out in 2010.)
+
+5. Contact Details
+
+I can be emailed direct at starbog@gmail.com or reached via the blog at kharne-rl.blogspot.com. Or you can reach me on #rgrd regularily where I am known as "starbog".

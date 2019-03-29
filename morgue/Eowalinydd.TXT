@@ -1,0 +1,194 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Eowalinydd the Level 1 elf Thief
+
+Began the game on 27/02/2010 21:29:36
+Died 162 turns later on 27/02/2010 21:30:35 after 0h 0m 59s
+You were killed by a Giant Bat on Level 1 of the The Wilderlands
+
+She scored 73 points
+
+-------
+Summary
+-------
+
+HP: 0/10
+MP  4/4	
+AC: 5	
+EV: 16
+SP: 6
+
+Gold: 0
+
+XP: 37/170
+
+----------
+Attributes
+----------
+
+Strength: 12 (2)
+Agility: 18 (8)
+Endurance: 12 (2)
+Intelligence: 13 (3)
+Resolve: 17 (7)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 0
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 0
+ Melee Combat: 0
+ Ranged Combat: 3
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 0
+ Medium Armour: 0
+ Light Armour: 2
+
+Subterfuge: 5
+ Stealth: 2
+ Thievery: 3
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Satin Hat [1, +0] (2 gp)
+Neck: [EMPTY]
+Chest: A Cotton Tunic [2, +0] (2 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Cotton Pantaloons [1, +0] (4 gp)
+Feet: Some Canvas Socks [1, +0] (1 gp)
+Mainhand: A Steel Heavy Mace [+0, +0] (6 gp)
+Offhand: [EMPTY]
+Ranged: An Oaken Shortbow [+0, +0] (4 gp)
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+Some Fruit (1 gp)
+Some Waybread (1 gp)
+A Loaf of Bread (1 gp)
+An Oily Cyan Potion (75 gp)
+  
+A Slimy Pink Potion (75 gp)
+  
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Wilderlands : 1
+
+-------
+Dungeon
+-------
+
+####..........~~~~~~~
+####................~
+###..................
+#.#.....##.....####.#
+b.......##.....######
+.....##.......#######
+..#####...@...#######
+..#####...rb..##.##..
+#...###.$........$...
+##...##..............
+##..........###..##..
+###......##.###..###.
+###.....####%....###.
+
+You could see: 
+ r Giant Rat
+ b Giant Bat
+
+--------
+Messages
+--------
+
+The Giant Rat bites you
+The Giant Rat bites you
+The Giant Rat bites you but misses badly
+The Giant Bat rakes you
+*** LOW HITPOINT WARNING ***
+The Giant Bat rakes you
+You hit the Giant Bat
+The Giant Bat bites you
+The Giant Bat bites you but misses
+You hit the Giant Bat
+The Giant Rat bites you but misses
+The Giant Bat bites you but misses
+The Giant Bat rakes you but misses
+The Giant Bat bites you but misses
+You hit the Giant Bat
+The Giant Rat bites you
+The Giant Rat bites you
+The Giant Bat bites you
+You were killed by a Giant Bat
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 2 Snakes
+ 1 Greedy Adventurer
+
+Total: 3 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Eowalinydd the Elf Thief started to explore the Multiverse
+0000162 The Wilderlands 1         Killed by a Giant Bat
+

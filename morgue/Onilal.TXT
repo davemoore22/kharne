@@ -1,0 +1,189 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Onilal the Level 1 Human Squire (Knight)
+
+Began the game on 25/06/2011 20:52:58
+Died 63 turns later on 25/06/2011 20:59:47 after 0h 6m 49s
+You were killed by a Kobold on Level 1 of the The Fortress of Ablach
+
+He scored 81 points
+
+-------
+Summary
+-------
+
+HP: 0/15
+MP  4/4	
+AC: 17	
+EV: 12
+SP: 4
+
+Gold: 5
+
+XP: 51/170
+
+----------
+Attributes
+----------
+
+Strength: 15 (5)
+Agility: 14 (4)
+Endurance: 15 (5)
+Intelligence: 11 (1)
+Resolve: 15 (5)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: An Iron Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: An Iron Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Mithril Cuisses [4, +0] (8 gp)
+Feet: Some Mithril Sabatons [4, +0] (5 gp)
+Mainhand: An Adamantine Halberd [+0, +0] (16 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+A Loaf of Bread (1 gp)
+A Chicken Drumstick (1 gp)
+Some Fruit (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+###################~~
+###################~~
+###################$~
+#################....
++.....###########.#..
+#####.######.......##
+#####k....@...###...+
+#####.############+##
+#####.##...$.......##
+...g...#$############
+.....k.#.############
+.......#.############
+........%############
+
+You could see: 
+ k Kobold
+
+--------
+Messages
+--------
+
+The Greedy Adventurer hits you but misses
+The Greedy Adventurer hits you but misses
+You pick up 190 bronze pieces
+You hit the Greedy Adventurer
+The Greedy Adventurer hits you but misses
+The Greedy Adventurer hits you but misses
+The Greedy Adventurer hits you
+*** LOW HITPOINT WARNING ***
+The Kobold picks a chunk of rotten meat from its teeth
+The Kobold shoots you
+You hit the Greedy Adventurer
+The Greedy Adventurer hits you
+The Greedy Adventurer hits you but misses
+The Greedy Adventurer swings at you
+The Kobold shoots you
+You critically hit the Greedy Adventurer
+You have killed the Greedy Adventurer!
+The Kobold shoots you
+You were killed by a Kobold
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Xvart
+ 2 Kobolds
+ 1 Greedy Adventurer
+
+Total: 4 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000063 The Fortress of Ablach 1  Killed by a Kobold
+

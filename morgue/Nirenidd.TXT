@@ -1,0 +1,193 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Nirenidd the Level 1 human Thief
+
+Began the game on 22/02/2010 05:13:17
+Died 118 turns later on 22/02/2010 05:14:11 after 0h 0m 53s
+You were killed by a Xvart on Level 1 of the The Fortress of Ablach
+
+He scored 82 points
+
+-------
+Summary
+-------
+
+HP: 0/10
+MP  4/4	
+AC: 5	
+EV: 16
+SP: 6
+
+Gold: 0
+
+XP: 50/170
+
+----------
+Attributes
+----------
+
+Strength: 13 (3)
+Agility: 18 (8)
+Endurance: 12 (2)
+Intelligence: 13 (3)
+Resolve: 16 (6)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 0
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 1
+ Melee Combat: 1
+ Ranged Combat: 2
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 0
+ Medium Armour: 0
+ Light Armour: 3
+
+Subterfuge: 5
+ Stealth: 2
+ Thievery: 3
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Fur Hat [1, +0] (2 gp)
+Neck: [EMPTY]
+Chest: A Fur Tunic [2, +0] (2 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Woolen Pantaloons [1, +0] (4 gp)
+Feet: Some Twill Socks [1, +0] (1 gp)
+Mainhand: A Steel Spear [+0, +0] (3 gp)
+Offhand: [EMPTY]
+Ranged: A Fur Sling [+0, +0] (1 gp)
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+Some Mushrooms (1 gp)
+A Loaf of Bread (1 gp)
+Some Waybread (1 gp)
+A Scroll labelled "RAHTEAOS ETFERRA" (75 gp)
+  
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+##########!####.#.###
+##########.####..k..$
+##########.####......
+.....####............
+~~.~.####%........)..
+.~~..####g].....~.g..
+.~~~.#####@####......
+..~.....\....####.###
+.#############....###
+.#############.##$###
+.#############.#+.###
+.#############.##.###
+....##########.##.###
+
+You could see: 
+ g Xvart
+
+--------
+Messages
+--------
+
+You hit the Xvart but its armour absorbs the blow
+The Xvart stabs you but misses
+The Xvart swings at you
+The Xvart swings at you
+*** LOW HITPOINT WARNING ***
+The Xvart stabs you but misses
+The Xvart swings at you but misses
+The Xvart hits you but misses
+You have learned the Fighting skill!
+You hit the Xvart
+The Xvart swings at you but misses
+The Xvart glares at you with orange eyes
+The Xvart hits you but misses
+The Xvart swings at you but misses
+You hit the Xvart
+The Xvart swings at you but your armour absorbs the
+blow
+The Xvart stabs you
+You were killed by a Xvart
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Xvart
+ 1 Goblin
+ 1 Kobold
+ 1 Greedy Adventurer
+
+Total: 4 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Nirenidd the Human Thief started to explore the Multiverse
+0000118 The Fortress of Ablach 1  Killed by a Xvart
+

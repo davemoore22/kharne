@@ -1,0 +1,75 @@
+# This is the monster data file.
+#
+# Heavily modelled on the Angband edit data file format
+#
+# Each creature has an individual entry in the following format:
+#
+# N: <ID> : <singlular name> : <plural name>
+# L: <Creature Level> : <Rarity> : <Uniqable?> 
+# E: <Ecology> : <Type>: <Pickup Items?>
+# G: <Display Character> : <Display Colour>
+# I: <Hit Dice> : <Armour Class> : <Evasion> : <Speed>
+# V: <Initial Alertness Level>
+# A: <Action Frequency> : <Action Text>
+# S: <Speech Frequency> : <Speech Text>
+# B: <Attack Method> : <Attack Effect> : <Damage> 
+# M: <Spell Type>
+# F: <Flag> | <Flag> | <Flag> | etc
+# C: <Class> | <Class> | etc
+# D: <Description>
+
+N: 1 : Goblin: Goblins
+L: 1 : Common : Yes
+E: Fortress: Goblinoid: Yes
+G: g: $C0C0C0
+I: 1: 5: 9: 10
+V: 255
+A: 10: "scratches its bottom"
+A: 10: "giggles"
+S: 20: "This is mine.  All mine!"
+B: HIT: HURT: 1d6
+F: COWARDLY | FLEE | OPEN_DOOR | GREEDY
+F: EVIL | CORPSES
+F: DROP_ITEMS_POOR | DROP_CASH 
+C: Bruiser | Basher
+D: ""
+D: ""
+
+N: 2 : Kobold : Kobolds
+L: 1 : Common : Yes
+E: Fortress: Goblinoid: Yes
+G: k: $004080
+I: 1: 5: 11: 12
+V: 255
+A: 10: "picks a chunk of rotten meat from its teeth"
+A: 10: "yips noisily"
+S: 20: "I'm gonna kill you! Yip yip!"
+B: HIT: HURT: 1d6 
+B: SHOOT: HURT: 1d6
+F: COWARDLY | FLEE | OPEN_DOOR | GREEDY
+F: EVIL | POISONOUS | CORPSES
+F: DROP_ITEMS_POOR | DROP_CASH 
+C: Commando | Archer | Lurker
+D: "Kobolds are short, ugly goblinoid humanoids."
+D: "They are known to have cowardly and sadistic tendencies."
+
+N: 23 : Ogre Mage : Ogre Magi
+L: 4 : Rare : Yes
+E: Fortress: Giant : Yes
+G: O: $FF00FF
+I: 4: 6: 12: 12
+V: 255
+A: 10: "waves a magic stick"
+A: 10: "yells a magic word"
+S: 20: "dis two and dat two make four, right?"
+B: HIT: SLAM: 1d6
+M: MAGIC_MISSILE | HEAL | HOLD | TELEPORT
+F: RANGED | BESERK | OPEN_DOOR | GREEDY
+F: EVIL | CORPSES
+F: DROP_ITEMS_POOR | DROP_ITEMS_GOOD | DROP_CASH 
+D: "Ogre Magi are hideous and deformed ogres wrapped in deathly black robes"
+D: "They are known to be cruel and masters of deadly arcane magics."
+
+
+
+

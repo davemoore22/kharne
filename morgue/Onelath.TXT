@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.06 Character File
+----------------------------------
+
+Onelath the Level 1 Human Squire (Knight)
+
+Began the game on 28/06/2011 21:14:26
+Died 140 turns later on 28/06/2011 21:15:31 after 0h 1m 5s
+You were killed by a Xvart on Level 1 of the The Fortress of Ablach
+
+He scored 130 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  3/3	
+AC: 20	
+EV: 10
+SP: 4
+
+Gold: 10
+
+XP: 87/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 14 (4)
+Endurance: 19 (9)
+Intelligence: 7 (-3)
+Resolve: 16 (6)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Copper Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Zinc Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Adamantine Cuisses [4, +0] (8 gp)
+Feet: Some Mithril Sabatons [4, +0] (5 gp)
+Mainhand: A Tin Great Axe [+0, +0] (10 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Trail Rations (1 gp)
+Some Mushrooms (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+~~~~################.
+.~~~################.
+.~~~##########~~~~~~~
+h~~~##########~~~~~~~
+~~~~##########~~~~~~~
+~~~~##########~~##\##
+.~~......g@\..~~#~~~#
+~~~~##########~~#~#~#
+##~~~#########~~#<~~#
+###~##########~~#####
+##############~~~~~~~
+##############~~~~~~~
+#####################
+
+You could see: 
+ g Xvart
+
+--------
+Messages
+--------
+
+You open the door
+A Xvart appears!
+A Xvart appears!
+You hit the Xvart
+The Xvart swings at you but misses badly
+The Xvart hits you
+The Xvart hits you
+The Xvart stabs you but misses
+You hit the Xvart
+You have killed the Xvart!
+The Xvart stabs you but misses
+You hit the Xvart
+The Xvart swings at you
+*** LOW HITPOINT WARNING ***
+The Xvart swings at you but your armour absorbs the blow
+The Xvart hits you but your armour absorbs the blow
+The Xvart glares at you with orange eyes
+The Xvart hits you
+You were killed by a Xvart
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Kobold
+ 5 Goblins
+ 1 Xvart
+
+Total: 7 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000140 The Fortress of Ablach 1  Killed by a Xvart
+

@@ -1,0 +1,247 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Chadric the Level 3 Dwarf Grunt (Warrior)
+
+Began the game on 16/08/2010 02:13:32
+Died 1735 turns later on 16/08/2010 02:24:10 after 0h 10m 37s
+You were killed by a Goblin on Level 2 of the The Fortress of Ablach
+
+He scored 1302 points
+
+-------
+Summary
+-------
+
+HP: 0/40
+MP  12/12	
+AC: 21	
+EV: 14
+SP: 2
+
+Gold: 147
+
+XP: 843/1530
+
+----------
+Attributes
+----------
+
+Strength: 17 (7)
+Agility: 16 (6)
+Endurance: 17 (7)
+Intelligence: 12 (2)
+Resolve: 12 (2)
+Charisma: 10 (0)
+
+------
+Combat
+------
+
+Accuracy: 5
+Damage: 2
+Blocking: 10
+Deflection: 7
+
+------
+Skills
+------
+
+Fighting: 8
+ Melee Combat: 5
+ Ranged Combat: 1
+ Unarmed Combat: 0
+
+Defense: 5
+ Heavy Armour: 6
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: -1
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Mithril Helm [4, -1]  {Cursed} (18 gp)
+  
+it decreases your armour class (-1)
+
+Neck: A Zinc Amulet of the Earth {Cursed} (15 gp)
+  
+it decreases your resistance to earthen magic (-1)
+
+Chest: A Steel Chain Shirt [6, +0] (16 gp)
+Arms: Some Hide Bracers [2, -1] of Ooze Slaying {Cursed} (33 gp)
+  
+it decreases your damage against oozes (-1)
+it decreases your armour class (-1)
+
+Hands: [EMPTY]
+Legs: Some Hide Chaps [2, -1]  {Cursed} (18 gp)
+  
+it decreases your armour class (-1)
+
+Feet: Some Steel Sabatons [4, -1]  {Cursed} (23 gp)
+  
+it decreases your armour class (-1)
+
+Mainhand: A Steel Long Sword [+0, +1] (133 gp)
+  
+it increases the damage you deal (+1)
+
+Offhand: A Zinc Medium Shield [3, +0] (4 gp)
+Ranged: An Ashen Crossbow [+0, +0] (6 gp)
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+A Copper Spear [+0, +0] (3 gp)
+Some Trail Rations (1 gp)
+Some Copper Greaves [6, +2] of Protection (75 gp)
+  
+it increases your armour class (+2)
+
+A Zinc Amulet of Acumen (114 gp)
+  
+it increases your intelligence (+1)
+
+A Loaf of Bread (1 gp)
+Some Fruit (1 gp)
+3 Bubbling Red Potions (30 gp)
+  
+An Adamantine Amulet of Absorption (159 gp)
+  
+it increases your chance of blocking blows (+1)
+
+A Mithril Helm [4, +0] (8 gp)
+Some Cotton Cuffs [1, +1] (64 gp)
+  
+it increases your armour class (+1)
+
+Some Iron Sabatons [4, +0] (5 gp)
+A Tin Helm [4, +1] (57 gp)
+  
+it increases your armour class (+1)
+
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+The Fortress of Ablach : 2
+
+-------
+Dungeon
+-------
+
+#####################
+#####################
+#####################
+#####################
+#####################
+#####################
+###~.~...g@..........
+###~~~?).............
+....~~...~..~~~!.....
+###..~..~~..~~.....>.
+###.~~~.~~..~~~~<]...
+..#.~~~?~~~...~~~]...
+..###################
+
+You could see: 
+ g Goblin
+
+--------
+Messages
+--------
+
+The Goblin hits you but your armour absorbs the blow
+The Goblin swings at you
+The Goblin swings at you but misses
+The Goblin swings at you but misses
+The Goblin hits you but misses
+The Goblin swings at you but misses
+The Goblin hits you but your armour absorbs the blow
+The Goblin hits you
+The Goblin hits you but misses
+The Goblin swings at you but misses
+The Goblin stabs you but misses
+The Goblin swings at you but misses
+The Goblin stabs you but misses
+The Goblin stabs you but you deflect its attack
+The Goblin hits you but your armour absorbs the blow
+The Goblin hits you but misses
+The Goblin hits you
+The Goblin hits you
+You were killed by a Goblin
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 8 Xvarts
+ 27 Goblins
+ 4 Greedy Adventurers
+ 11 Kobolds
+ 1 Quokka
+ 1 Trogg
+ 1 Warg
+ 1 Giant Scorpion
+ 1 Hill Giant
+ 1 Hobgoblin
+
+Total: 56 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Chadric the Dwarf Warrior started to explore the Multiverse
+0000243 The Fortress of Ablach 1  Reached Level 2, HP: 28/28, MP: 8/8
+0000667 The Fortress of Ablach 1  Gained Skill Level 5 in Heavy Armour
+0000977 The Fortress of Ablach 1  Gained Skill Level 5 in Melee
+0001321 The Fortress of Ablach 1  Reached Level 3, HP: 30/40, MP: 12/12
+0001631 The Fortress of Ablach 2  Explored Level 2 of The Fortress of Ablach
+0001717 The Fortress of Ablach 2  Gained Skill Level 5 in Defense
+0001735 The Fortress of Ablach 2  Killed by a Goblin
+

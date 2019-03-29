@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Adrilird the Level 1 Human Squire (Knight)
+
+Began the game on 20/04/2010 01:54:00
+Died 39 turns later on 20/04/2010 01:54:28 after 0h 0m 28s
+You were killed by a Giant Bat on Level 1 of the The Wilderlands
+
+He scored 33 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  4/4	
+AC: 17	
+EV: 9
+SP: 3
+
+Gold: 0
+
+XP: 12/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 10 (0)
+Endurance: 20 (10)
+Intelligence: 10 (0)
+Resolve: 17 (7)
+Charisma: 13 (3)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Zinc Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: A Zinc Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Iron Cuisses [4, +0] (8 gp)
+Feet: Some Iron Sabatons [4, +0] (5 gp)
+Mainhand: A Tin Great Axe [+0, +0] (10 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Fruit (1 gp)
+Some Waybread (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Wilderlands : 1
+
+-------
+Dungeon
+-------
+
+#...###.......#####~~
+########~~....#####..
+.#######~~......####.
+.##.####~~.......###.
+.....###...........#.
+....####.sb..........
+....####..@.....##...
+................####.
+................####.
+..........#.....##...
+...................##
+..........~~~~~~~~~~~
+..##......~~~~~~~~~~~
+
+You could see: 
+ s Snake
+ b Giant Bat
+
+--------
+Messages
+--------
+
+The Giant Bat bites you but misses
+The Giant Bat bites you but misses
+The Giant Bat bites you but misses
+The Giant Bat bites you but misses
+You are poisoned!
+The Snake stings you but your armour absorbs the blow
+The Snake stings you but misses
+The Giant Bat bites you but your armour absorbs the
+blow
+The Giant Bat rakes you but misses
+The Giant Bat bites you
+*** LOW HITPOINT WARNING ***
+The Giant Bat bites you
+The Giant Bat bites you but misses badly
+The Snake stings you but misses
+You are poisoned!
+The Snake stings you
+The Giant Bat bites you
+You were killed by a Giant Bat
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Greedy Adventurer
+
+Total: 1 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Adrilird the Human Knight started to explore the Multiverse
+0000039 The Wilderlands 1         Killed by a Giant Bat
+

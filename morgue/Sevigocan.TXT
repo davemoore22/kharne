@@ -1,0 +1,268 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Sevigocan the Level 3 Human Thug (Thief)
+
+Began the game on 15/03/2011 01:43:37
+Died 2100 turns later on 15/03/2011 01:58:54 after 0h 15m 16s
+You were killed by a Griffon on Level 4 of the The Wilderlands
+
+He scored 2869 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  15/15	
+AC: 15	
+EV: 14
+SP: 4
+
+Gold: 454
+
+XP: 1246/1530
+
+----------
+Attributes
+----------
+
+Strength: 12 (2)
+Agility: 18 (8)
+Endurance: 10 (0)
+Intelligence: 17 (6)
+Resolve: 17 (7)
+Charisma: 11 (1)
+
+------
+Combat
+------
+
+Accuracy: 7
+Damage: 2
+Blocking: 9
+Deflection: 6
+
+------
+Skills
+------
+
+Fighting: 2
+ Melee Combat: 2
+ Ranged Combat: 2
+ Unarmed Combat: 0
+
+Defense: 3
+ Heavy Armour: 0
+ Medium Armour: 2
+ Light Armour: 9
+
+Subterfuge: 8
+ Stealth: 3
+ Thievery: 3
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 3
+ Earth: -9
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Hide Cap [2, +1] (141 gp)
+  
+it increases your armour class (+1)
+
+Neck: An Adamantine Amulet of Acumen (114 gp)
+  
+it increases your intelligence (+1)
+
+Chest: A Bronze Chain Shirt [6, +1] (172 gp)
+  
+it increases your armour class (+1)
+
+Arms: [EMPTY]
+Hands: Some Hide Gloves [2, -1]  {Cursed} (17 gp)
+  
+it decreases your armour class (-1)
+
+Legs: Some Woolen Pantaloons [1, +0] (4 gp)
+Feet: The ancient artifact "Aboelgrin" (66 gp)
+  
+it decreases your resistance to earthen magic (-9)
+it decreases your damage against outsiders (-1)
+it decreases your armour class (-1)
+
+Mainhand: A Mithril Morningstar [+3, +1] of Combat Mastery (512 gp)
+  
+it increases your chance to hit (+2)
+it increases your chance to hit (+1)
+it increases the damage you deal (+1)
+
+Offhand: A Bronze Medium Shield [3, +0] (4 gp)
+Ranged: An Ashen Longbow [+1, +1] (322 gp)
+  
+it increases the damage you deal (+1)
+it increases your chance to hit (+1)
+
+Back: [EMPTY]
+Left Finger: An Iron Ring of the Flames (211 gp)
+  
+it increases your resistance to fire magic (+3)
+
+Right Finger: [EMPTY]
+
+Carried:
+
+A Mithril Ring of Elemental Slaying (222 gp)
+  
+it increases your damage against elementals (+1)
+
+A Viscous Purple Potion (3 gp)
+  
+An Oily Cyan Potion (75 gp)
+  
+A Fizzing Brown Potion (37 gp)
+  
+A Sedimented Orange Potion (120 gp)
+  
+A Loaf of Bread (1 gp)
+3 Fruit (1 gp)
+A Bubbling Red Potion (30 gp)
+  
+Some Mushrooms (1 gp)
+2 Waybread (1 gp)
+A Fuming Silvery Potion (90 gp)
+  
+An Iron Amulet of Giant Slaying (223 gp)
+  
+it increases your damage against giants (+1)
+
+The ancient artifact "Hauder" (852 gp)
+  
+it increases your resistance to fire magic (+6)
+it increases the damage you deal (+1)
+it increases your chance to hit (+1)
+
+
+-----------
+Exploration
+-----------
+
+You visited 4 unique levels of the Multiverse:
+
+The Wilderlands : 4
+
+-------
+Dungeon
+-------
+
+####........~..######
+~##...........#######
+.##~~..##.....#######
+.~~.~~.##......####~#
+~~~~#.......#..###~~~
+~~..~...~.~.##...~~~~
+....~....¶@.~#...~~~.
+...####...H..~~...~.~
+##..###.......~~..~~~
+#~.............#~.~##
+#~......%~~~#~##~.~+C
+....#####~~~###...~#@
+...#######.~~##...~+D
+
+You could see: 
+ H Griffon
+
+--------
+Messages
+--------
+
+The Griffon claws you but misses
+The Griffon rakes you but misses
+You hit the Griffon
+The Griffon claws you but misses
+The Griffon rakes you but misses
+The Griffon claws you but you block its attack
+The Griffon claws you but misses
+The Griffon claws you but you deflect its attack
+You hit the Griffon
+The Griffon rakes you but misses
+The Griffon claws you but misses
+The Griffon rakes you
+The Griffon claws you but misses
+The Griffon rakes you but misses
+You hit the Griffon
+The Griffon rakes you but misses
+The Griffon rakes you but misses
+The Griffon rakes you
+You were killed by a Griffon
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 7 Giant Rats
+ 11 Giant Bats
+ 7 Snakes
+ 7 Greedy Adventurers
+ 6 Giant Ants
+ 1 Dwalelgrin the Bellicose
+ 3 Giant Scorpions
+ 2 Giant Bees
+ 2 Large Snakes
+ 1 Ogre
+ 1 Quaggoth
+ 2 Initiate Rune Hunters
+ 2 Griffons
+ 1 Hound
+ 1 Jackal
+
+Total: 54 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Sevigocan the Human Thief started to explore the Multiverse
+0000231 The Wilderlands 1         Identified The ancient artifact "Aboelgrin"
+0000529 The Wilderlands 1         Reached Level 2, HP: 12/12, MP: 10/10
+0000722 The Wilderlands 1         Noticed Dwalelgrin the Bellicose
+0000723 The Wilderlands 1         Killed Dwalelgrin the Bellicose
+0000814 The Wilderlands 2         Explored Level 2 of The Wilderlands
+0000903 The Wilderlands 2         Gained Skill Level 5 in Light Armour
+0000944 The Wilderlands 3         Explored Level 3 of The Wilderlands
+0001444 The Wilderlands 3         Reached Level 3, HP: 14/16, MP: 15/15
+0001551 The Wilderlands 3         Identified The ancient artifact "Hauder"
+0001673 The Wilderlands 4         Explored Level 4 of The Wilderlands
+0002100 The Wilderlands 4         Killed by a Griffon
+

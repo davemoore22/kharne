@@ -1,0 +1,195 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Keduwan the Level 1 human Knight
+
+Began the game on 10/04/2010 23:22:33
+Died 57 turns later on 10/04/2010 23:22:56 after 0h 0m 22s
+You were killed by a Greedy Adventurer on Level 2 of the The Fortress of Ablach
+
+He scored 123 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  5/5	
+AC: 19	
+EV: 9
+SP: 4
+
+Gold: 2
+
+XP: 0/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 12 (2)
+Endurance: 18 (8)
+Intelligence: 12 (2)
+Resolve: 16 (6)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 0
+Deflection: 0
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 1
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Zinc Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: An Iron Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Bronze Cuisses [4, +0] (8 gp)
+Feet: Some Mithril Kickers [3, +0] (4 gp)
+Mainhand: An Iron Great Sword [+0, +0] (7 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+Some Trail Rations (1 gp)
+  
+Some Mushrooms (1 gp)
+  
+A Loaf of Bread (1 gp)
+  
+A Mithril Ring of Humanoid Slaying (108 gp)
+  
+it increases your damage against humanoids (+1)
+
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+The Fortress of Ablach : 2
+
+-------
+Dungeon
+-------
+
+#####################
+#####################
+#####################
+#####################
+#####################
+#########..@....~...#
+..........@k......g.#
+#####################
+#####################
+#####################
+#####################
+#####################
+#####################
+
+You could see: 
+ k Kobold
+ @ Greedy Adventurer
+
+--------
+Messages
+--------
+
+A Kobold appears!
+The Kobold shoots you but you block its attack
+The Kobold picks a chunk of rotten meat from its teeth
+The Kobold shoots you but misses
+The Kobold shoots you but misses
+You see a Polished Mithril Ring here
+You pick up a Polished Mithril Ring
+The Kobold shoots you but misses
+The Kobold hits you but misses
+The Kobold shoots you
+You hit the Kobold
+The Kobold shoots you
+A Greedy Adventurer appears!
+The Greedy Adventurer rubs hands together gleefully
+The Kobold shoots you but your armour absorbs the blow
+The Greedy Adventurer hits you
+The Greedy Adventurer hits you
+*** LOW HITPOINT WARNING ***
+You were killed by a Greedy Adventurer
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+
+Total: 0 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000040 The Fortress of Ablach 2  Explored Level 2 of The Fortress of Ablach
+0000057 The Fortress of Ablach 2  Killed by a Greedy Adventurer
+

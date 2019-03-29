@@ -1,0 +1,378 @@
+Kharne Alpha 23 - 16/07/2011
+* Moved to a new Versioning System.
+* Status Conditions are now displayed at the bottom of the main display.
+* The '@' symbol is coloured according to the current health of the Player Character.
+* Added four more types of potions to cover Elemental Resistances, which add 40% to their respective resistances.
+* Trying to drink a potion or reading a scroll whilst not being able to will now exit the inventory properly.
+* Potions of Healing and Extra-Healing now cure poisons.
+* Potions of Extra-Healing cure the Paralysis, Blinded, Confusion and Drained conditions.
+* A message is generated whenever a level containing a Unique is entered.
+* Wearing Heavy or Medium armor reduces stealth.
+* Thieves now learn Stealth skills quicker.
+* Warriors now learn Defense & Heavy Armour skills quicker.
+* Stealth rolls are modified by the distance to Monsters.
+
+Kharne Alpha 22 - 04/07/2011
+* Potions can now be drunk when confused or blind.
+* Some monsters can now pickup selected items from the dungeon floor.
+* Monster Breath Attacks are now represented graphically by a 'beam'.
+* Dungeon features (e.g. growths, piles of bones etc) are no longer passable by default and must be 'T'unnelled through to pass.
+* Added tooltips for Background Dungeon features.
+* Whenever the Player Character enters or leaves a Background Dungeon feature, an appropriate message is displayed in the Message Log.
+* Stair descriptions are now more thematically appropriate.
+* Changed the glyph for an open door from \ to '.
+* Magical items have been increased in power.
+* Fixed an issue with certain dungeon features not appearing whilst in steath or enraged.
+* Trying to drink a potion or read a scroll whilst unable to do so will no longer consume the potion or scroll.
+* Potions of See Invisible and Combat Mastery now have correct expiration messages.
+* Scrolls of Enchant Weapon will no longer enchant Shields.
+* Fixed an issue with not displaying the unidentified name of Potions of Might.
+* Potions of Might now triple the character's bonus damage, not their strength.
+* Potions can now be identified properly by using Scrolls of Identify.
+* When IDing a Scroll by using it, the Scroll Type will now be displayed in the Message Log.
+* Cursed items are now significantly worse in effect.
+* Monster Tooltips now indicate if the Monster is unaware of the Player Character.
+* Monster appearance messages now check for Player Character Stealth properly.
+
+Kharne Alpha 21 - 29/06/2011
+* Potions have been implemented.
+* Added a stealth mode (entered and exited by pressing 's').
+* Added NPCs to the Town level.
+* Added a house for the character to the town level.
+* Eating no longer restores any lost health points.
+* Projectile Animation is now much smoother.
+* Increased the number of monsters generated per level.
+* Resting is no longer possible when starved.
+* Additional Identify scrolls are now generated on each dungeon level.
+* Right-clicking on a Creature will bring up Monster Memory for that creature.
+* Elemental Intrusion Creatures have had their hitpoints reduced again.
+* Reduced the rate at which certain skills are learned.
+* Groups of Monsters can now have a slightly tougher leader monster accompanying them.
+* The cursor now changes colour depending on LOS. 
+* Unique monsters now have their glyphs marked with a double-underline.
+* OOD monsters now have their glyphs marked with an underline.
+* Fixed an issue with certain vaults having impassable walls in error.
+* Removed the extraneous buttons from the Inventory view. 
+
+Kharne Alpha 20 - 23/08/2010
+* Some monsters now can poison.
+* Some monsters now follow characters up and down stairs.
+* Mineral nodes are now found on levels and can be dug out for extra gold or occasionally items.
+* Classes now have different titles, dependent upon current character level.
+* Only the just finished game will be now highlighted correctly in the hiscore list after character death.
+* Spurious double quotes (") will no longer appear in automatically generated character names.
+* When resting, there is chance of a monster appearing randomly near the character.
+* Eating now restores all lost health points.
+* When starting a 2nd game in the same session, the Character Background will be reset properly.
+* On Character death, the Main Window Title will be reset properly.
+* Elemental Intrusion Creatures no longer have as many hitpoints.
+* Unidentified Scrolls are now identified properly on Character Death.
+
+Kharne Alpha 19 - 01/11/2009
+
+* Scrolls have been implemented.
+* Scrolls and potions are no longer PseudoIDed.
+* Hunger is now increased by wearing magical items.
+* Fixed a bug with cursed fountains not causing the character to hunger correctly when drinking from them.
+
+Kharne Alpha 18 - 03/10/2009
+
+* Fixed a bug that caused text in the character creation screens to be cut short.
+* Fixed an error that occurred when loading one of the sample characters.
+* Logging can now be switched on with the "/log" command line parameter. The default value is off.
+
+Kharne Alpha 17 - 01/10/2009
+
+* Functionally identical to Alpha 16, but released under the MPL.
+
+Kharne Alpha 16 - 28/09/2009
+
+* Blocked repetitive keypressing whilst in character creation to avoid selecting multiple options with the same keypress.
+* The various character creation steps can now be undone.
+* Pressing [CTRL] on the background tab in character creation will now generate a random background.
+* Half-Orcs are now Orcs everywhere in the game.
+* Character Dumps should no longer report dwarven characters as halfings.
+* Character files which belong to characters who have died are now moved to the morgue subdirectory.
+* Upon death, a copy of the character dump is written to to the morgue subdirectory.
+* Common items can now be pseudo-ided.
+* Fixed a minor spacing error in automatically generated backgrounds.
+
+Kharne Alpha 15 - 27/09/2009
+
+* Character Creation functionality has now been incorporated into the main window and no longer uses an external DLL.
+* The inventory screen has been redesigned.
+* Multidrop functionality via the keyboard has been implemented (press 'd').
+* Eating functionality via the keyboard has been implemented (press 'e')
+* Added PseudoIDing of items held in the inventory for a certain amount of time.
+* Added key summaries to the bottom of each subscreen.
+* Monsters have had their hit points and damage increased.
+* The application should now exit correctly and not hang around in memory.
+* Upon levelling, two appropriate skill categeories for each class are now increased by 1. 
+* The chance of cursed items appearing has been more than doubled.
+* Added an item view to display detailed item information from the inventory.
+* Characters that do not know any magic can no longer access the spell screen.
+* The character dump now displays the monster kills for the character.
+* Monsters that have special plurals should now be referred to correctly in the plural form.
+* Fixed a few minor spelling mistakes in the character dump and a few layout mistakes on the high-score screen.
+* Female characters should no longer be referred to as "he" in the character dump.
+* When digging a reminder is now displayed of the keys used.
+* Drinking from fountains now uses a turn up.
+* Monsters in zones are now scaled more appropriately.
+* Not wearing any armour at all will significantly increase the rate at which the defense skill is learned.
+* The character 'back' slot which was never used in game has been removed.
+* Sneak attacks are now flagged in the message log.
+* Thieves now get extra sneak-attack damage when using ranged weapons.
+* The thievery skill now grants a chance to open and close doors without allowing monsters to react.
+* Monsters that are carrying items no longer have their items disappear on death when killed in ranged combat.
+* The change in Alpha 14 to not display messages upon opening and closing doors has been reversed.
+* Trying to open or close doors when there are no doors in range will produce an appropriate message in the message log.
+* Opening doors as part of movement will now cause a turn to pass.
+* Tunnelling now takes only half as long.
+* Tunnelling now displays a message indicating if it has been aborted due to nearby monsters.
+* Attempting to tunnel through impassable walls now doesn't use up any time.
+* Trying to dig on the town level results in a warning message.
+* Walking into walls now uses up a turn.
+* The rate at which subterfuge skills are learned has been dramatically increased.
+* The rate at which ranged combat skill is learned has been dramatically increased.
+* Trying to pick up an item with a full inventory no longer gives the message that an item has been successfully picked up.
+* The message log now reports that Undead monsters are 'destroyed'and Outsider creatures are 'banished' instead of 'killed'.
+* Identified items that are cursed now have 'Cursed' as an integral part of their name, e.g. they are called "A Cursed Longbow [-1,-1]" instead of "A Longbow [1, -1] (Cursed)".
+* Unidentified artifacts have now the correct prefix in their name.
+* Fixed a bug where an error would occur when trying to write a Hiscore to the HiScore table if the table was empty.
+* Special terrain tiles are now described correctly inside an elemental invasion zone.
+
+Kharne Alpha 14 - 14/09/2009
+
+* Bitstream Vera Sans Mono is now the only font used throughout the entire game.
+* Ranged/magical attacks for monsters now use differening appropriate and meaningful ASCII symbols.
+* Ranged/magical attacks for monsters now are described correctly (and differently from melee attacks).
+* The status/info panel can now be hidden (F1/F2 to toggle).
+* Grammar and punctuation has been corrected in various locations throughout the game.
+* The Monster description window has been removed from the game.
+* The Item popup window has been removed from the game.
+* OOD Monsters and Uniques have had their stats adjusted.
+* Wearing and removing magical items now produce additional atmospheric messages.
+* The magnitudes of item enchantments have been modified.
+* Attacking with a missile weapon now produces appropriate feedback in the message log.
+* Monsters that haven't detected the player yet are grayed-out.
+* Monsters can no longer critically hit the player.
+* Skill levels now contribute to Game Score.
+
+Kharne Alpha 13 - 07/08/2009
+
+* Added milestones to the Character Log.
+* Multiple Items can now exist on the same square.
+* Firing a ranged combat weapon now correctly updates the turn count.
+* The maximum damage a monster can do to a player in a single hit is now (Maximum Hit Points - 1).
+* Piles of Silver and Bronze can now be found throughout the dungeons.
+* Items have been reduced in cost by a factor of five.
+* There is now a wider variety of entry vaults.
+* Amulets can now be found in fountains.
+* Combat Text is now much more descriptive.
+* Monster attacks that hit you and cause damage are now displayed in a different colour.
+* Co-ordinates are now only displayed if the Wizard Window is displayed.
+* The number of hit points and magic points gained per level has been slightly increased.
+* The effect on speed of carrying weights greater than maximum load has been reduced slightly.
+* Monsters will use ranged attacks less often.
+]
+Kharne Alpha 12 - 29/07/2009
+
+* Ranged Combat now works again.
+* More monsters now have actions and speech.
+* Using stairs now requires < and > instead of , and ;
+* The particular set of stairs taken to go down and up levels in the dungeon are now remembered.
+* The standard 0 and 5 keys now allow resting as well.
+* Keyboard commands that previously were only responsive to capital letters (e.g. 'S') now work with lower-case letters as well (e.g. 's').
+* Font size and typeface have been made consistent across all the main window interfaces.
+* The Status Bar has been redesigned.
+* Attributes are no longer displayed on the Status Bar.
+* There is now a short pause after death and before the Character Summary is displayed.
+* Skills that are 100% progressed to the next skill level no longer have their progress indicators clipped.
+* Artifact Names are now prefixed correctly whilst unidentified.
+
+Kharne Alpha 11 - 28/07/2009
+
+* Fixed the crash that occurs sometimes in character creation.
+* The Main Window no longer accepts keyboard input when it is not active (for example, if the character creation window is active).
+* The cursor is now positioned correctly when the main window is maximised.
+* Non-magical items no longer have extraneous item descriptions (e.g. bloodstained, gashed, rusted or corroded).
+* Monster speech is now coloured white in the Message Log.
+* The Quit (Suicide) menu option now works.
+* It is no longer possible to cause an error by pressing random keys whilst in the Hi Scores screen.
+* Fixed an error that could occur when entering a level where no unique is present. As a result the "You feel a brooding presence..." message that displays whenever a unique is present on the level is no longer displayed.
+* Starting a new game after finishing an old one will now clear the Message Log properly.
+* A Welcome Message is displayed in the Message Log when you start or continue a game.
+* The Player score calculated on the Farewell screen and the Player Score recorded in the hi-score table are now the same.
+* Monsters listed as cause of death in the hiscore table are now prefixed properly.
+* Removed the Show Inventory option on the Death Hiscore screen (Inventory Details can be viewed via the character dump opption instead).
+
+Kharne Alpha 10 - 24/07/2009
+
+* The main window has been consolidated into the game window.
+* Added Uniques to the Dungeons.
+* Some monsters are no longer silent, and can shout and make other noises (this is a work in progress).
+* Reduced the amount of items that are generated on a level, apart from food, which has been increased.
+* Monsters can now occasionally wield and wear armour and items.
+* Social Monsters can now be found throughout the Dungeons in greater numbers.
+* High Scores have been implemented.
+* Fixed a bug where deaths could be logged multiple times.
+* Added a cursor to the main display window.
+* The effect of AC, Speed, Blocking and Deflection have been reduced.
+* Monster Hit Points have been recalculated and increased.
+* Shops are now restocked with new level-appropriate items every time you re-enter the Town Level.
+* Player Resolve is now affected properly by items with the Steadfastness Enchantment.
+* Artifacts-quality items have now the "Ancient" prefix when unidentified.
+* Items that bestow health are now properly factored into calculations for Hit Point Display and Damage Taken.
+* The amount of damage inflicted and recieved is no longer displayed in the combat log.
+* All rings and amulets generated are now of superb quality at least.
+* Added warning text to alert the player if a dungeon is too difficult for the character level.
+* Wearing and Removing Items now have more descriptive messages.
+* Items that are carried but not worn contribute only 20% as much to overall game score.
+* Monster awakening messages are now more atmospheric.
+* Eating items now displays gramatically more correct messages in the message log.
+* Added a warning whenever a single attack takes off more than 50% of the Player's Health Pool.
+* Monster health is now displayed as health bars beneath the glyphs, and is displayed in the message log at regular intervals.
+* Skill Gains have changed so that specialist skills (e.g. Melee or Heavy Armour) increase faster than the general skills (e.g. Fighting or Defense).
+* The Wizard Console has been extended with more information and more options.
+* Gifting an item on the Wizard Console no longer causes an occasional error.
+* Items gifted using the wizard Console are now automatically identified.
+* The Town Level Name is now displayed correctly on the Window Title.
+* Opening/Closing Doors no longer displays a message on the message log. 
+* Intrusion Zones are now generated again occasionally.
+* Intrusion Zone Monsters e.g. Vanguards or Intruders, are now scaled appropriately to the level in which they appear.
+* Digging now stops if any monsters are in sight.
+* Duplicate messages that occur when the character drinks from a fountain have been removed.
+* Item/Monster tooltips have been changed slightly to display information better.
+
+Kharne Alpha 9 - 03/07/2009
+
+* Gold is now automatically picked up.
+* Varying Radius FoV has been implemented - randarts with the 'alertness' property can increase and decrease (if cursed) the radius of the FoV.
+* Moving the mouse over a creature or item in the dungeon now displays pertinent information on the main screen.
+* Food found in the dungeon is no longer flagged as unidentified.
+* Fountains that have been drunk from cannot be drunk from again.
+* The player avatar ('@') is now transparent.
+* The main menu has been given a graphical overhaul.
+
+Kharne Alpha 8 - 03/05/2009
+
+* Combat/Defense and Subterfuge Skills have been implemented.
+* The nutritional value of food has been quadrupled.
+* You can no longer removed cursed items by swapping uncursed items into their slot.
+* The display font has been changed to a standard system font (Courier).
+* Message Colours have been changed and standardised.
+* A welcome message is now displayed when you first start the game.
+* A Low Hit Point Warning has been added.
+* You can now only target hostile creatures with ranged weapons.
+
+* Projectiles have been fully animated.
+* Fountains can now be found in all dungeons apart from the Elemental Planes. They can have both beneficial and harmful effects.
+* Whilst the Wizard screen is displayed, death is optional.
+
+Kharne Alpha 7 - 20/04/2009
+
+* Item Anonimity and Identification has now been implemented.
+* Item stacking now works properly.
+* Eating stacked food now only consumes one of the stack.
+* Defense Skill is now listed properly in the Skill Screen.
+* Food is now listed in the inventory in one colour. It remains colourful on the dungeon floor.
+* The font size of the message window has been reduced.
+* Wands are temporarily no longer generated in the dungeons (it makes no sense for them to be there whilst their functionality has not yet been implemented).
+* The Inventory Screen has been redesigned slighty.
+
+Kharne Alpha 6 - 19/04/2009
+
+* Dungeon Levels are now persistent within each Branch - exiting a Branch entirely will generate new levels.
+* Food & Hunger have been implemented. Whilst starving, HP and MP do not regenerate naturally.
+* Ranged Combat has now been implemented (left click on a monster to fire a projectile at it - for now, ammunition is inifinite).
+* The amount of HP and MP that characters gain on level up is now also dependent upon Fighting and Magic Skill levels.
+* Added a Wizard Mode (accessible by pressing W)
+* Monsters can no longer be generated in the walls of Vaults.
+* Monster HP and Damage has been rebalanced.
+* The XP required to gain a level has been increased substantially.
+* Level Feelings are no longer immediately generated if you have recently navigated more than one set of stairs.
+* Reduced the amount of gold that is generated.
+* The elapsed game time (in real terms) is now displayed at the top of the Main Game Window. This pauses whenever the Inventory or any other subscreen is shown.
+* Character Dumps now display the correct version number.
+* Character Dumps now show the elapsed game time (in real terms).
+* Digging now updates the visible areas of the dungeon correctly..
+* Turns elapsed is now displayed in a more appropriate colour.
+* Fixed a few minor grammatical errors in the Combat Text.
+
+Kharne Alpha 5 - 08/04/2009
+
+* Melee-based Monsters now have basic AI (monsters that reply on Ranged Combat or Magic are still AI-less).
+* The UI has been completely redesigned.
+* The Monster Display and the Minimap have been incorporated into the main window.
+* The inventory, statistics and magic screens have been redesigned.
+* The Combat system has now been implemented for Melee Attacks.
+* A Death Screen has been added.
+* A Character Dump has been added.
+* Added a help screen in-game.
+* There are now regularly re-stocked shops in The Nexus.
+* Gold has been implemented and can be found through the various Dungeons.
+* Version info can be displayed in-game.
+* Characters are now equipped with class and skill-appropriate (mundane) starting equipment.
+* Internal Monster Stats have been rebalanced.
+* Some Monster Symbols (mainly types of demons) have been reallocated.
+* Added additional lesser vaults, which can now occur occasionally at all levels.
+* HP and MP now regenerate slowly. The rate of HP Regeneration is based upon Character Endurance and MP upon Intelligence.
+* Resting has now been implemented (to rest for one turn or many, press 0 or 5 on the Keypad).
+* The Monster Display now collates like-type monsters together.
+* You can no longer access monster details via the Monster Display.
+* Spell Details and Descriptions have now been added.
+* Monsters can no longer be generated on top of stairs.
+* The Characters always starts the two lowest-level dungeons (The Keep and the Wilderlands) in a safe vault.
+* Monsters are now displayed on the mini-map as red dots.
+* The Characters can no longer have negative abilities or characteristics.
+* The Main Window will no longer be sensitive to key presses when it does not have focus (e.g. when it is minimised or in the background).
+* Fixed a bug where you could pick up an infinite number of items.
+* Picking up more items than there are Inventory slots free no longer corrupts the Inventory.
+* You can now open adjacent doors by pressing ?o?.
+* Visible squares are now recalculated properly when opening and closing doors. 
+* Dropping an item on top of another item no longer causes an error.
+* Dropping an item successfully will now close the inventory window.
+* Picking up items now takes time.
+* Weapons now have Damage Ranges.
+* Magic Items that give bonuses to Evasion are no longer as powerful.
+* Item Locations are now displayed correctly in tooltips.
+* Shields now give a bonus to Deflection and Blocking.
+* There are two new brands added: Goblin Slaying and Outsider Slaying.
+* The Player's current mana (as opposed to maximum mana) is now used to calculate which spells are available to cast.
+
+Kharne Alpha 4 - 28/03/2009
+
+* Spruced up some of the dungeons with additional terrain types and visual effects.
+* The Abyss is now a completely different map type.
+* The Main Screen can now be resized and maximised.
+* Clicking on the Main Screen is now handled more accurately.
+* The colours of the Portals in the Nexus now correspond better to the Level Type.
+* Custom Fonts are now added to the system table using the non-blocking PostMessage API Call.
+* Fixed a bug in the Dungeon Generation code for the Mausoleum and the Keep that could lead to a morass of dead end passages in certain parts of the map.
+* Smoothed the maps for the Elemental Plains to remove most freestanding isolated walls.
+* Moved the Status Window to the bottom of the main panel.
+* When waiting for a direction to dig in, a visual indicator will now be displayed.
+* You can no longer dig on the town level.
+
+Kharne Alpha 3 - 17/03/2009
+
+* Added Progress Indicators to Splash Screen.
+* Reduced timeout of Splash Screen from 5 to 2 seconds.
+* Increased the default view radius to 9 squares.
+* Changed keyboard handling to detect , and . for stairs up and down respectively.
+* Frequency of Vaults is now dependent upon level depth.
+* A Vault will now always increase the Level Feeling to the maximum.
+
+Kharne Alpha 2 - 16/03/2009
+
+* Fixed Graphical Error that could hide "start new game" on front screen on certain screen resolutions.
+* Enabled Menus on front screen.
+* Enabled Quit Menu option and Icon on main game screen.
+* Reduced the frequency of Keypress Checks to stop the inadvertent repeated toggling of some screens.
+* Subscreens such as Inventory, Skills, Character Details and Magic are now dismissed by pressing Escape.
+* You can no longer walk on the edges of the Nexus.
+* Clicking on a Monster in the Monster Display will now display Monster Details.
+
+Kharne Alpha 1 - 14/03/2009
+
+* Initial Release.

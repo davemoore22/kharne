@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Legarel the Level 1 Dwarf Squire (Knight)
+
+Began the game on 25/11/2010 01:32:32
+Died 246 turns later on 25/11/2010 01:35:05 after 0h 2m 33s
+You were killed by a Xvart on Level 1 of the The Fortress of Ablach
+
+He scored 115 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  2/2	
+AC: 21	
+EV: 9
+SP: 4
+
+Gold: 34
+
+XP: 37/170
+
+----------
+Attributes
+----------
+
+Strength: 16 (6)
+Agility: 12 (2)
+Endurance: 19 (9)
+Intelligence: 5 (-5)
+Resolve: 17 (7)
+Charisma: 15 (5)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 0
+Deflection: 0
+
+------
+Skills
+------
+
+Fighting: 5
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 1
+ Heavy Armour: 3
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Zinc Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: A Copper Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Adamantine Greaves [6, +0] (10 gp)
+Feet: Some Zinc Sabatons [4, +0] (5 gp)
+Mainhand: An Ashen Quarterstaff [+0, +0] (2 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Chicken Drumsticks (1 gp)
+Some Mushrooms (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#############.#######
+######\######.#######
+######.######.....###
+..####.##########.###
+..]....##########.###
+#.####.###~#.........
+#~####.###@..........
+#~####.###g##########
+#~####.###..##.#.##.#
+#~.....####~.....@...
+############+..@.....
+~~~##...~~~~...g.....
+~~~##.....~~.........
+
+You could see: 
+ g Xvart
+
+--------
+Messages
+--------
+
+You hit the Xvart sneakily
+You hit the Xvart sneakily
+You have killed the Xvart!
+You see a Clear Black Potion here
+You pick up 23 gold pieces
+A Xvart appears!
+The Xvart stabs you
+The Xvart swings at you
+The Xvart stabs you but misses
+The Xvart stabs you
+The Xvart hits you
+The Xvart hits you
+The Xvart hits you
+*** LOW HITPOINT WARNING ***
+The Xvart glares at you with orange eyes
+The Xvart stabs you but misses
+The Xvart hits you
+The Xvart hits you
+You were killed by a Xvart
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Kobold
+ 2 Xvarts
+
+Total: 3 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Legarel the Dwarf Knight started to explore the Multiverse
+0000246 The Fortress of Ablach 1  Killed by a Xvart
+

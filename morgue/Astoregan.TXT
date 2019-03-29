@@ -1,0 +1,191 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Astoregan the Level 1 Human Squire (Knight)
+
+Began the game on 19/04/2010 22:03:06
+Died 222 turns later on 19/04/2010 22:03:52 after 0h 0m 46s
+You were killed by a Giant Bat on Level 1 of the The Wilderlands
+
+He scored 180 points
+
+-------
+Summary
+-------
+
+HP: 0/15
+MP  4/4	
+AC: 18	
+EV: 11
+SP: 4
+
+Gold: 51
+
+XP: 88/170
+
+----------
+Attributes
+----------
+
+Strength: 15 (5)
+Agility: 14 (4)
+Endurance: 15 (5)
+Intelligence: 10 (0)
+Resolve: 15 (5)
+Charisma: 15 (5)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Steel Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: A Mithril Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Copper Cuisses [4, +0] (8 gp)
+Feet: Some Copper Kickers [3, +0] (4 gp)
+Mainhand: An Oaken Quarterstaff [+0, +0] (2 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+Some Fruit (1 gp)
+Some Waybread (1 gp)
+A Chicken Drumstick (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Wilderlands : 1
+
+-------
+Dungeon
+-------
+
+#################....
+###########.....$...#
+####.....?.......####
+###.%............####
+###................##
+######........~~...##
+#######...@b...~~~.##
+#######.........~~..#
+#######.%..........##
+#####~.......~..#####
+####.....$......#####
+###......~......####.
+###....~~~~.....###.$
+
+You could see: 
+ b Giant Bat
+
+--------
+Messages
+--------
+
+The Giant Bee stings you but your armour absorbs the
+blow
+You hit the Giant Bee
+The Giant Bee stings you but misses
+The Giant Bee stings you
+The Giant Bee stings you but misses
+You hit the Giant Bee
+The Giant Bee stings you but misses
+The Giant Bee stings you
+*** LOW HITPOINT WARNING ***
+The Giant Bee stings you but misses
+You hit the Giant Bee
+You have killed the Giant Bee!
+You have been interrupted - something is nearby!
+You cannot rest now, there are enemies nearby
+A Giant Bat appears!
+The Giant Bat rakes you but misses
+The Giant Bat bites you
+You were killed by a Giant Bat
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Giant Bat
+ 2 Snakes
+ 1 Giant Ant
+ 1 Giant Bee
+
+Total: 5 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Astoregan the Human Knight started to explore the Multiverse
+0000222 The Wilderlands 1         Killed by a Giant Bat
+

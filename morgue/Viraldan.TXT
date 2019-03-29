@@ -1,0 +1,225 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Viraldan the Level 2 dwarf Warrior
+
+Began the game on 22/02/2010 04:13:18
+Died 892 turns later on 22/02/2010 04:19:17 after 0h 5m 59s
+You were killed by a Giant Scorpion on Level 2 of the The Wilderlands
+
+He scored 919 points
+
+-------
+Summary
+-------
+
+HP: 0/29
+MP  6/6	
+AC: 24	
+EV: 10
+SP: 5
+
+Gold: 147
+
+XP: 554/680
+
+----------
+Attributes
+----------
+
+Strength: 18 (8)
+Agility: 15 (5)
+Endurance: 15 (5)
+Intelligence: 11 (1)
+Resolve: 15 (5)
+Charisma: 10 (0)
+
+------
+Combat
+------
+
+Accuracy: 4
+Damage: 2
+Blocking: 9
+Deflection: 6
+
+------
+Skills
+------
+
+Fighting: 8
+ Melee Combat: 4
+ Ranged Combat: 1
+ Unarmed Combat: 0
+
+Defense: 3
+ Heavy Armour: 4
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Tin Coif [3, +0] (6 gp)
+Neck: An Iron Amulet of Combat Mastery {Cursed} (43 gp)
+  
+it decreases your chance to hit (-1)
+
+Chest: A Zinc Breastplate [8, +0] (20 gp)
+Arms: Some Iron Wristguards [3, +0] (4 gp)
+Hands: [EMPTY]
+Legs: Some Zinc Cuisses [4, +0] (8 gp)
+Feet: Some Zinc Sabatons [4, -2] of Protection {Cursed} (22 gp)
+  
+it decreases your armour class (-2)
+
+Mainhand: A Tin Morningstar [+0, +0] (4 gp)
+Offhand: An Oaken Buckler [2, +0] (2 gp)
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: A Zinc Ring of Elemental Slaying (51 gp)
+  
+it increases your damage against elementals (+1)
+
+Right Finger: [EMPTY]
+
+Carried:
+
+Some Waybread (1 gp)
+A Haunch of Meat (1 gp)
+Some Mushrooms (1 gp)
+4 Chicken Drumsticks (1 gp)
+A Tin Amulet of Resistance (96 gp)
+  
+it increases your resistance (+1)
+
+A Fuming Silvery Potion (90 gp)
+  
+An Ashen Quarterstaff [+1, +0] (111 gp)
+  
+it increases your chance to hit (+1)
+
+Some Mithril Cuisses [4, +0] (8 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+The Wilderlands : 2
+
+-------
+Dungeon
+-------
+
+#####################
+####~~~~~~~##########
+####~#####~##########
+####~+@k#\~##########
+####~#@]##~~.#..#####
+####~+js#\~~.#....###
+####~#T=##@~##....###
+####~+~)~s~~#...~~###
+###.~#~]~#~###.~~~..#
+###~~+~~@+~#####<~~..
+###.~#~"~#~#####~~~~.
+###)~+~~~+~####.~~~##
+###.~#####~~~~#.~~~##
+
+You could see: 
+ s Giant Scorpion
+ g Hobgoblin
+
+--------
+Messages
+--------
+
+*** LOW HITPOINT WARNING ***
+You hit the Gnoll
+The Gnoll picks a flea from its fur and throws it at
+you.
+The Gnoll stabs you
+You hit the Gnoll
+The Gnoll swings at you but misses badly
+You hit the Gnoll
+You critically hit the Gnoll
+You have killed the Gnoll!
+You hit the Hobgoblin
+The Hobgoblin hits you but your armour absorbs the blow
+The Hobgoblin hits you but your armour absorbs the blow
+You hit the Hobgoblin
+The Hobgoblin hits you
+You hit the Hobgoblin
+You have killed the Hobgoblin!
+The Giant Scorpion claws you
+You were killed by a Giant Scorpion
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Giant Bat
+ 5 Giant Rats
+ 3 Snakes
+ 1 Goblin
+ 2 Greedy Adventurers
+ 2 Giant Ants
+ 2 Giant Bees
+ 1 Kobold
+ 2 Giant Scorpions
+ 1 Hound
+ 2 Hobgoblins
+ 1 Trogg
+ 1 Griffon
+ 1 Gnoll
+
+Total: 25 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Viraldan the Dwarf Warrior started to explore the Multiverse
+0000329 The Wilderlands 2         Explored Level 2 of The Wilderlands
+0000637 The Wilderlands 2         Reached Level 2, HP: 29/29, MP: 6/6
+0000892 The Wilderlands 2         Killed by a Giant Scorpion
+

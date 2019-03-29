@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Rigolith the Level 1 Human Squire (Knight)
+
+Began the game on 23/08/2010 23:25:23
+Died 130 turns later on 23/08/2010 23:25:47 after 0h 0m 23s
+You were killed by a Kobold on Level 1 of the The Fortress of Ablach
+
+He scored 55 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  4/4	
+AC: 17	
+EV: 10
+SP: 4
+
+Gold: 0
+
+XP: 24/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 12 (2)
+Endurance: 19 (9)
+Intelligence: 11 (1)
+Resolve: 16 (6)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Mithril Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Mithril Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Mithril Cuisses [4, +0] (8 gp)
+Feet: Some Adamantine Kickers [3, +0] (4 gp)
+Mainhand: An Adamantine Halberd [+0, +0] (16 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Fruit (1 gp)
+A Loaf of Bread (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+################.####
+################.####
+################.####
+################.####
+################.####
+###.##.#########\####
+....~.~.~g@.........#
+...g.¶.g..###########
+....~.~k~~###########
+....~~..$~###########
+....~~..~~###########
+######~##############
+######~##############
+
+You could see: 
+ g Goblin
+
+--------
+Messages
+--------
+
+A Goblin appears!
+You hit the Goblin
+The Goblin stabs you but misses
+The Goblin stabs you
+The Goblin hits you
+You hit the Goblin
+The Goblin swings at you
+*** LOW HITPOINT WARNING ***
+The Goblin stabs you but misses
+The Goblin hits you
+You critically hit the Goblin
+You have killed the Goblin!
+A Goblin appears!
+The Goblin giggles
+A Goblin appears! It is wielding a Zinc Heavy Mace
+A Kobold appears! It is wearing a Bronze Breastplate
+The Goblin stabs you
+The Kobold shoots you
+You were killed by a Kobold
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Kobold
+ 1 Goblin
+
+Total: 2 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Rigolith the Human Knight started to explore the Multiverse
+0000130 The Fortress of Ablach 1  Killed by a Kobold
+

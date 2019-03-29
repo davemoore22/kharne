@@ -1,0 +1,44 @@
+package AdvPageControlPkgD7;
+
+{$R *.res}
+{$R 'AdvPageControlreg.dcr'}
+{$R 'AdvTabSetReg.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'TMS TAdvPageControl & TAdvTabSet'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  vclactnband,
+  vclx;
+
+contains
+  AdvPageControlReg in 'AdvPageControlreg.pas',
+  AdvPageControlDE in 'AdvPageControlde.pas',
+  AdvPageControl in 'AdvPageControl.pas',
+  AdvTabSet in 'AdvTabSet.pas',
+  AdvTabSetReg in 'AdvTabSetReg.pas';
+
+end.

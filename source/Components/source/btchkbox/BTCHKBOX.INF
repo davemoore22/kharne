@@ -1,0 +1,18 @@
+Filename: BtChkBox.Zip
+
+Replacements: None.  This is version 1.0.
+
+Version: 1.0
+
+Description: This component behaves like TCheckBox but allows bitmaps to be used for each state and enabled possibility.  The default images are like those used in the SQL Server 6 interface.  Sample images are also included to emulate traffic lights and LEDs.
+
+Target: Delphi 2.0 or later.
+
+Author:	Bill Menees
+	bmenees@usit.net
+	http://www.public.usit.net/bmenees
+
+Status:	Freeware.  
+	Full source included.
+
+Category: Improved Components.

@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Jeroash the Level 1 Dwarf Squire (Knight)
+
+Began the game on 15/03/2011 01:42:11
+Died 180 turns later on 15/03/2011 01:43:09 after 0h 0m 58s
+You were killed by a Goblin on Level 1 of the The Fortress of Ablach
+
+He scored 106 points
+
+-------
+Summary
+-------
+
+HP: 0/15
+MP  3/3	
+AC: 21	
+EV: 10
+SP: 4
+
+Gold: 32
+
+XP: 36/170
+
+----------
+Attributes
+----------
+
+Strength: 16 (6)
+Agility: 14 (4)
+Endurance: 17 (7)
+Intelligence: 6 (-4)
+Resolve: 17 (7)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 1
+Blocking: 0
+Deflection: 0
+
+------
+Skills
+------
+
+Fighting: 5
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 1
+ Heavy Armour: 3
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Tin Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Copper Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Zinc Greaves [6, +0] (10 gp)
+Feet: Some Zinc Kickers [3, +0] (4 gp)
+Mainhand: A Steel Great Axe [+0, +0] (10 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Mushrooms (1 gp)
+Some Fruit (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#####################
+#####################
+##########.##########
+...\.......##########
+#######.#..##########
+#########.+##########
+####+..%.g@##########
+.....#####..#########
+#.#########.#########
+#.#########.#########
+#.#########.#########
+#.#########...#######
+#.###########.#######
+
+You could see: 
+ g Goblin
+
+--------
+Messages
+--------
+
+The Kobold hits you but misses badly
+The Kobold hits you
+You hit the Kobold
+You have killed the Kobold!
+You have rested successfully!
+You open the door
+Digging
+You have found some treasure buried in the rock!
+You pick up 16 gold pieces
+A Goblin appears!
+The Goblin giggles
+The Goblin says "This is mine.  All mine!"
+The Goblin swings at you
+You hit the Goblin
+The Goblin stabs you but misses
+The Goblin hits you
+The Goblin hits you
+*** LOW HITPOINT WARNING ***
+You were killed by a Goblin
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 2 Kobolds
+ 1 Xvart
+
+Total: 3 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Jeroash the Dwarf Knight started to explore the Multiverse
+0000180 The Fortress of Ablach 1  Killed by a Goblin
+

@@ -1,0 +1,238 @@
+----------------------------------
+Kharne Alpha 24 Character File
+----------------------------------
+
+Groiand the Level 3 Dwarf Novice (Priest)
+
+Began the game on 19/07/2011 16:50:23
+Died 798 turns later on 19/07/2011 16:59:15 after 0h 8m 51s
+You were killed by a Jackal on Level 4 of the The Wilderlands
+
+He scored 2294 points
+
+-------
+Summary
+-------
+
+HP: 0/30
+MP  29/29	
+AC: 23	
+EV: 7
+SP: 4
+
+Gold: 254
+
+XP: 989/1530
+
+----------
+Attributes
+----------
+
+Strength: 12 (2)
+Agility: 12 (2)
+Endurance: 12 (2)
+Intelligence: 17 (7)
+Resolve: 18 (8)
+Charisma: 13 (3)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 2
+Blocking: 10
+Deflection: 9
+
+------
+Skills
+------
+
+Fighting: 3
+ Melee Combat: 3
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 5
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 1
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 7
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 4
+ Cursing: 0
+ Combat: 1
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Tin Helm [4, +0] (8 gp)
+Neck: The ancient artifact "Gwaych" (1755 gp)
+  
+it increases your health (+4)
+it increases your magical power (+5)
+it increases your chance of avoiding a blow (+4)
+it increases your damage against dragons (+1)
+
+Chest: A Steel Chain Shirt [6, +0] of Protection {Cursed} (87 gp)
+  
+it increases your armour class (+2)
+it decreases your armour class (-2)
+
+Arms: [EMPTY]
+Hands: Some Hide Gloves [2, +1] (52 gp)
+  
+it increases your armour class (+1)
+
+Legs: Some Bronze Greaves [6, +0] (10 gp)
+Feet: Some Adamantine Kickers [3, +0] (4 gp)
+Mainhand: A Steel Light Mace [+2, +2] of Outsider Slaying (1882 gp)
+  
+it increases your damage against outsiders (+4)
+it increases the damage you deal (+2)
+it increases your chance to hit (+2)
+
+Offhand: A Pine Buckler [2, +0] (2 gp)
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Haunches of Meat (1 gp)
+A Loaf of Bread (1 gp)
+Some Mushrooms (1 gp)
+A Felt Hat [1, +0] (2 gp)
+A Chicken Drumstick (1 gp)
+A Twill Whip [+0, +0] (2 gp)
+Some Trail Rations (1 gp)
+2 Scrolls of Magic Mapping (90 gp)
+  
+A blank piece of paper (24 gp)
+  
+Some Hide Chaps [2, +0] (6 gp)
+A Tin Heavy Mace [+3, +1] of Combat Mastery (516 gp)
+  
+it increases your chance to hit (+2)
+it increases your chance to hit (+1)
+it increases the damage you deal (+1)
+
+
+-----------
+Exploration
+-----------
+
+You visited 4 unique levels of the Multiverse:
+
+The Wilderlands : 4
+
+-------
+Dungeon
+-------
+
+#####.....~~~..~~$~##
+#####......#~#.~....#
+#####..##~~#####...<#
+##.a...##~"#####@~.##
+##..%...~~~###~.~~~##
+#.......~~.#~#.~~~###
+#..####.~~@j....~~###
+#######~~~~~......###
+########~~~~####.####
+##########~~#########
+#####################
+#####################
+#####################
+
+You could see: 
+ j Jackal
+ @ Greedy Adventurer
+
+--------
+Messages
+--------
+
+The Jackal bites you
+The Jackal bites you but misses
+The Jackal bites you but misses
+The Jackal claws you
+The Jackal claws you
+The Jackal bites you but misses
+The Jackal bites you
+The Jackal claws you
+The Jackal bites you
+You hit the Jackal
+The Jackal claws you but misses
+The Jackal claws you
+The Jackal bites you
+*** LOW HITPOINT WARNING ***
+The Jackal claws you
+You hit the Jackal
+The Jackal bites you but misses
+The Jackal claws you
+You were killed by a Jackal
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 11 Snakes
+ 3 Giant Rats
+ 8 Giant Bats
+ 5 Giant Rats
+ 5 Greedy Adventurers
+ 1 Massive Giant Bee
+ 4 Giant Scorpions
+ 1 Massive Giant Ant
+ 4 Initiate Rune Hunters
+ 1 Jelly
+ 1 Giant Bee
+ 4 Giant Ants
+
+Total: 48 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000146 The Wilderlands 1         Reached Level 2, HP: 19/19, MP: 18/18
+0000151 The Wilderlands 2         Explored Level 2 of The Wilderlands
+0000452 The Wilderlands 2         Reached Level 3, HP: 26/26, MP: 29/29
+0000629 The Wilderlands 3         Explored Level 3 of The Wilderlands
+0000771 The Wilderlands 4         Explored Level 4 of The Wilderlands
+0000798 The Wilderlands 4         Gained Skill Level 5 in Defense
+0000798 The Wilderlands 4         Killed by a Jackal
+

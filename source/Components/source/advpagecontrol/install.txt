@@ -1,0 +1,12 @@
+Installation :
+--------------
+
+ In Delphi 5,6,7 or C++Builder 5,6
+
+ Unzip files apcdx or apccx into a component directory
+
+ Choose : File, Open
+  
+ Browse for package file AdvpageControlDx.DPK (Delphi) or AdvPageControlCx.BPK (C++Builder)
+
+ From package editor : press Install

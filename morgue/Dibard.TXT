@@ -1,0 +1,187 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Dibard the Level 1 Human Squire (Knight)
+
+Began the game on 19/04/2010 21:59:06
+Died 27 turns later on 19/04/2010 21:59:42 after 0h 0m 35s
+You were killed by a Giant Bat on Level 1 of the The Wilderlands
+
+He scored 33 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  4/4	
+AC: 19	
+EV: 9
+SP: 4
+
+Gold: 0
+
+XP: 12/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 12 (2)
+Endurance: 18 (8)
+Intelligence: 10 (0)
+Resolve: 16 (6)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Mithril Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: An Adamantine Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Mithril Greaves [6, +0] (10 gp)
+Feet: Some Iron Sabatons [4, +0] (5 gp)
+Mainhand: An Oaken Quarterstaff [+0, +0] (2 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+A Chicken Drumstick (1 gp)
+A Loaf of Bread (1 gp)
+Some Fruit (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Wilderlands : 1
+
+-------
+Dungeon
+-------
+
+$..~..........######.
+$............~#####..
+#.......$......####..
+###....##......####..
+###.....#~.....#####.
+##.......~~~~~~~~~##.
+##...?...b@~~~~~~~...
+##....#..~~~~~~~~~...
+###......~~#\##~~~##.
+###......~~#<~#~~~##.
+####.....~~####~~~...
+######...~~~~~~~~~...
+#######..~~~~~~~~~...
+
+You could see: 
+ b Giant Bat
+
+--------
+Messages
+--------
+
+A Giant Bat appears!
+The Giant Bat bites you
+The Giant Bat bites you
+The Giant Bat bites you but your armour absorbs the
+blow
+The Giant Bat bites you
+The Giant Bat rakes you but misses
+You hit the Giant Bat
+The Giant Bat bites you but misses
+The Giant Bat rakes you
+The Giant Bat bites you
+*** LOW HITPOINT WARNING ***
+The Giant Bat bites you
+The Giant Bat bites you but misses
+The Giant Bat bites you
+The Giant Bat bites you
+The Giant Bat bites you
+The Giant Bat rakes you
+You were killed by a Giant Bat
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Giant Rat
+
+Total: 1 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000027 The Wilderlands 1         Killed by a Giant Bat
+

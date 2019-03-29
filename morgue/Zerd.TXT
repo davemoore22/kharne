@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Zerd the Level 1 Human Squire (Knight)
+
+Began the game on 16/08/2010 02:11:37
+Died 93 turns later on 16/08/2010 02:12:49 after 0h 1m 11s
+You were killed by a Greedy Adventurer on Level 1 of the The Fortress of Ablach
+
+He scored 38 points
+
+-------
+Summary
+-------
+
+HP: 0/16
+MP  5/5	
+AC: 20	
+EV: 9
+SP: 4
+
+Gold: 0
+
+XP: 13/170
+
+----------
+Attributes
+----------
+
+Strength: 13 (3)
+Agility: 13 (3)
+Endurance: 18 (8)
+Intelligence: 13 (3)
+Resolve: 14 (4)
+Charisma: 13 (3)
+
+------
+Combat
+------
+
+Accuracy: 1
+Damage: 0
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 3
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 1
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Zinc Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Zinc Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Steel Greaves [6, +0] (10 gp)
+Feet: Some Bronze Sabatons [4, +0] (5 gp)
+Mainhand: A Fir Quarterstaff [+0, +0] (2 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+3 Fruit (1 gp)
+A Haunch of Meat (1 gp)
+A Copper Great Axe [+0, +0] (10 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#################.##.
+#################.##.
+################+~...
+#################~###
+....~~~~....+~+~~~##.
+.####################
+......~~~.@@.~$..~~g.
+#####################
+####################.
+#####################
+#####################
+#####################
+#####################
+
+You could see: 
+ @ Greedy Adventurer
+
+--------
+Messages
+--------
+
+The Xvart stabs you but misses
+The Xvart swings at you
+The Xvart hits you but misses
+You hit the Xvart
+You have killed the Xvart!
+You have rested successfully!
+A Greedy Adventurer appears!
+You hit the Greedy Adventurer
+The Greedy Adventurer stabs you
+The Greedy Adventurer swings at you
+Ouch! That really hurt!
+*** LOW HITPOINT WARNING ***
+The Greedy Adventurer swings at you
+You hit the Greedy Adventurer
+The Greedy Adventurer hits you
+The Greedy Adventurer swings at you but misses badly
+You hit the Greedy Adventurer
+The Greedy Adventurer hits you
+You were killed by a Greedy Adventurer
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Xvart
+
+Total: 1 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Zerd the Human Knight started to explore the Multiverse
+0000093 The Fortress of Ablach 1  Killed by a Greedy Adventurer
+

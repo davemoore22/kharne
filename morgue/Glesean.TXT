@@ -1,0 +1,257 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Glesean the Level 5 Human Defender (Knight)
+
+Began the game on 27/06/2011 23:52:12
+Died 606 turns later on 27/06/2011 23:58:54 after 0h 6m 41s
+You were killed by a Flying Skull on Level 1 of the The Mausoleum
+
+He scored 4275 points
+
+-------
+Summary
+-------
+
+HP: 0/62
+MP  30/30	
+AC: 22	
+EV: 10
+SP: 4
+
+Gold: 615
+
+XP: 3405/4250
+
+----------
+Attributes
+----------
+
+Strength: 15 (5)
+Agility: 12 (2)
+Endurance: 18 (8)
+Intelligence: 10 (0)
+Resolve: 15 (5)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 6
+Damage: 4
+Blocking: 8
+Deflection: 6
+
+------
+Skills
+------
+
+Fighting: 8
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 1
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 6
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 8
+ Fire: 8
+ Earth: 8
+ Air: 8
+ Water: 44
+ Poison: 8
+ Lifedraining: 8
+
+---------
+Inventory
+---------
+
+Head: The ancient artifact "Tralea" (2022 gp)
+  
+it increases your armour class (+4)
+it increases your resistance (+4)
+it increases your resistance (+4)
+
+Neck: A Steel Amulet of Striking (570 gp)
+  
+it increases the damage you deal (+1)
+
+Chest: The ancient artifact "Grorectred" (2562 gp)
+  
+it increases your resistance to water magic (+36)
+it increases your armour class (+5)
+
+Arms: [EMPTY]
+Hands: Some Copper Gauntlets [4, +3] (318 gp)
+  
+it increases your armour class (+3)
+
+Legs: Some Bronze Cuisses [4, +1] (207 gp)
+  
+it increases your armour class (+1)
+
+Feet: Some Copper Sabatons [4, +2] (217 gp)
+  
+it increases your armour class (+2)
+
+Mainhand: A Bronze Battle Axe [+2, +2] of Speed (2795 gp)
+  
+it increases your speed (+4)
+it increases the damage you deal (+2)
+it increases your chance to hit (+2)
+
+Offhand: An Adamantine Tower Shield [5, +3] of Construct Slaying (1102 gp)
+  
+it increases your damage against constructs (+3)
+it increases your armour class (+3)
+
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: The ancient artifact "Voim" (2652 gp)
+  
+it increases your damage against oozes (+5)
+it increases your damage against giants (+2)
+it increases your endurance (+2)
+
+Right Finger: An Adamantine Ring of Evasion (2502 gp)
+  
+it increases your evasion (+8)
+it increases your damage against elementals (+2)
+
+
+Carried:
+
+2 Trail Rations (1 gp)
+A Loaf of Bread (1 gp)
+Some Iron Sabatons [4, +0] (5 gp)
+An Iron Battle Axe [+1, +2] (1420 gp)
+  
+it increases the damage you deal (+2)
+it increases your chance to hit (+1)
+
+A Zinc Breastplate [8, +2] of Dragon Slaying (1112 gp)
+  
+it increases your damage against dragons (+3)
+it increases your armour class (+2)
+
+The ancient artifact "Ediach" (5403 gp)
+  
+it increases your resistance to water magic (+36)
+it increases your damage against animals (+5)
+it increases your chance to hit (+4)
+it increases the damage you deal (+3)
+
+A Potion of Free Action (90 gp)
+  
+2 Potions of See Invisible (30 gp)
+  
+A Potion of Blindness (4 gp)
+  
+A Potion of Confusion (7 gp)
+  
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Mausoleum : 1
+
+-------
+Dungeon
+-------
+
+##########.##########
+##########.##########
+#####.####.###@######
+#####.####.##########
+#####.####+##########
+#####.####....#######
+#####.....@##@.+.####
+..+...####z#####.####
+######.]............z
+######...~~~~<...~~..
+######....~~~~...~~.z
+######....~~~~~.~~~..
+###################.#
+
+You could see: 
+ z Flying Skull
+ @ Savage Rune Hunter
+
+--------
+Messages
+--------
+
+The Savage Rune Hunter hits you
+You hit the Savage Rune Hunter
+The Savage Rune Hunter stabs you
+The Savage Rune Hunter hits you
+The Savage Rune Hunter hits you but misses
+The Savage Rune Hunter swings at you
+The Savage Rune Hunter stabs you but you deflect its
+attack
+The Savage Rune Hunter swings at you but misses badly
+You hit the Savage Rune Hunter
+The Savage Rune Hunter stabs you
+You hit the Savage Rune Hunter
+The Savage Rune Hunter stabs you but misses
+The Savage Rune Hunter hits you but you block its attack
+The Savage Rune Hunter swings at you
+You hit the Savage Rune Hunter
+You have killed the Savage Rune Hunter!
+The Flying Skull bites you
+You were killed by a Flying Skull
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Flying Skull
+ 1 Savage Rune Hunter
+
+Total: 2 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000021 The Nexus 0               Reached Level 2, HP: 26/26, MP: 9/9
+0000023 The Nexus 0               Reached Level 3, HP: 37/37, MP: 15/15
+0000024 The Nexus 0               Reached Level 4, HP: 49/49, MP: 22/22
+0000026 The Nexus 0               Reached Level 5, HP: 62/62, MP: 30/30
+0000606 The Mausoleum 1           Killed by a Flying Skull
+

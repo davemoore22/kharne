@@ -1,0 +1,91 @@
+-------%s---------------
+Kharne %s Character File
+-------%s---------------
+
+%s the Level %d %s %s (%s)
+
+Began the game on %s
+Died %d turns later on %s after %s
+%s on Level %d of the %s
+
+He scored %d points
+
+-------
+Summary
+-------
+
+HP: %d/%d
+MP  %d/%d	
+AC: %d	
+EV: %d
+SP: %d
+
+Gold: %d
+
+XP: %d/%d
+
+----------
+Attributes
+----------
+
+Strength: %d (%d)
+Agility: %d (%d)
+Endurance: %d (%d)
+Intelligence: %d (%d)
+Resolve: %d (%d)
+Charisma: %d (%d)
+
+------
+Combat
+------
+
+Accuracy: %d
+Damage: %d
+Blocking: %d
+Deflection: %d
+
+------
+Skills
+------
+
+Fighting: %d
+ Melee Combat: %d
+ Ranged Combat: %d
+ Unarmed Combat: %d
+
+Defense: %d
+ Heavy Armour: %d
+ Medium Armour: %d
+ Light Armour: %d
+
+Subterfuge: %d
+ Stealth: %d
+ Thievery: %d
+
+-----
+Magic
+-----
+
+Base Skill: %d
+ Elemental Fire: %d
+ Elemental Water: %d
+ Elemental Air: %d
+ Elemental Earth: %d
+ Nature: %d
+ Healing: %d
+ Cursing: %d
+ Combat: %d
+ Protection: %d
+ Lore: %d
+
+-----------
+Resistances
+-----------
+
+Base Resistance: %d
+ Fire: %d
+ Earth: %d
+ Air: %d
+ Water: %d
+ Poison: %d
+ Lifedraining: %d

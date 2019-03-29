@@ -1,0 +1,189 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Eowoibwyn the Level 1 human Knight
+
+Began the game on 10/04/2010 22:48:31
+Died 30 turns later on 10/04/2010 22:53:30 after 0h 4m 59s
+You were killed by a Fire Elemental on Level 2 of the Plane of Fire
+
+He scored 120 points
+
+-------
+Summary
+-------
+
+HP: 0/15
+MP  4/4	
+AC: 19	
+EV: 9
+SP: 3
+
+Gold: 0
+
+XP: 0/170
+
+----------
+Attributes
+----------
+
+Strength: 14 (4)
+Agility: 11 (1)
+Endurance: 17 (7)
+Intelligence: 11 (1)
+Resolve: 17 (7)
+Charisma: 14 (4)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 0
+Deflection: 0
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 1
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Copper Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Copper Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Steel Cuisses [4, +0] (8 gp)
+Feet: Some Bronze Kickers [3, +0] (4 gp)
+Mainhand: A Steel Great Axe [+0, +0] (10 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+A Loaf of Bread (1 gp)
+A Haunch of Meat (1 gp)
+A Chicken Drumstick (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+Plane of Fire : 2
+
+-------
+Dungeon
+-------
+
+#############~~......
+#############..~..~##
+############%..#...~~
+############........~
+###########~.........
+##########~E.$.~!~.$=
+#########~@C~..~~~~.#
+#########........~.##
+#########d........###
+########..........###
+#########........<###
+#########..#....~....
+##########~~~....~...
+
+You could see: 
+ d Fire Drake
+ C Fire Giant
+ E Fire Elemental
+
+--------
+Messages
+--------
+
+The Fire Giant hits you
+The Fire Giant hits you
+The Fire Giant hits you
+The Fire Drake breaths on you
+The Fire Giant hits you
+The Fire Giant hits you
+The Fire Giant hits you but you deflect its attack
+You see an elemental node here...
+The Fire Giant hits you
+The Fire Giant hits you
+The Fire Giant hits you but misses badly
+The Fire Drake breaths on you
+The Fire Giant hits you
+The Fire Giant hits you but misses badly
+The Fire Drake breaths on you but your armour absorbs
+the blow
+The Fire Giant hits you but misses badly
+The Fire Elemental hits you
+You were killed by a Fire Elemental
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+
+Total: 0 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000021 Plane of Fire 2           Explored Level 2 of Plane of Fire
+0000030 Plane of Fire 2           Killed by a Fire Elemental
+

@@ -1,0 +1,190 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Afinad the Level 1 Human Grunt (Warrior)
+
+Began the game on 04/10/2010 02:15:50
+Died 521 turns later on 04/10/2010 02:18:13 after 0h 2m 22s
+You were killed by a Xvart on Level 1 of the The Fortress of Ablach
+
+He scored 314 points
+
+-------
+Summary
+-------
+
+HP: 0/17
+MP  4/4	
+AC: 22	
+EV: 11
+SP: 4
+
+Gold: 90
+
+XP: 151/170
+
+----------
+Attributes
+----------
+
+Strength: 17 (7)
+Agility: 14 (4)
+Endurance: 15 (5)
+Intelligence: 12 (2)
+Resolve: 14 (4)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 1
+Blocking: 9
+Deflection: 6
+
+------
+Skills
+------
+
+Fighting: 5
+ Melee Combat: 4
+ Ranged Combat: 1
+ Unarmed Combat: 0
+
+Defense: 3
+ Heavy Armour: 3
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 1
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Steel Helm [4, +0] (8 gp)
+Neck: [EMPTY]
+Chest: A Steel Breastplate [8, +0] (20 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Steel Cuisses [4, +0] (8 gp)
+Feet: Some Copper Sabatons [4, +0] (5 gp)
+Mainhand: A Mithril Heavy Mace [+0, +0] (6 gp)
+Offhand: An Oaken Buckler [2, +0] (2 gp)
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Haunches of Meat (1 gp)
+Some Waybread (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#############.#######
+############.....+.##
+..........gg#..######
+#####.#######..######
+#####.######...######
+#####.###~##@>.######
+###.......@g~..######
+....#.######...######
+#####.######....#####
+.+++..#######..######
+#############..######
+#############..######
+#############..######
+
+You could see: 
+ g Xvart
+ @ Greedy Adventurer
+
+--------
+Messages
+--------
+
+You gain awareness of your surroundings
+Digging
+You have found some treasure buried in the rock!
+You pick up 18 gold pieces
+A Xvart appears!
+The Xvart swings at you
+The Xvart stabs you but misses
+The Xvart swings at you
+The Xvart stabs you
+The Xvart hits you
+The Xvart swings at you but misses
+The Xvart swings at you but misses
+The Xvart stabs you
+*** LOW HITPOINT WARNING ***
+The Xvart stabs you
+The Xvart swings at you but your armour absorbs the
+blow
+The Xvart stabs you
+You were killed by a Xvart
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 3 Kobolds
+ 2 Goblins
+ 5 Xvarts
+ 1 Gnoll
+
+Total: 11 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000521 The Fortress of Ablach 1  Killed by a Xvart
+

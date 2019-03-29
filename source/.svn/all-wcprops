@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/15/source
+END
+UnitItem.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/20/source/UnitItem.pas
+END
+UnitWizard.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/source/UnitWizard.pas
+END
+UnitDataModule.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/source/UnitDataModule.dfm
+END
+UnitInit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/22/source/UnitInit.pas
+END
+UnitDataModule.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/source/UnitDataModule.ddp
+END
+UnitDice.pas
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/source/UnitDice.pas
+END
+UnitDisplay.pas
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/22/source/UnitDisplay.pas
+END
+desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1/source/desktop.ini
+END
+UnitEngine.pas
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/source/UnitEngine.pas
+END
+UnitFunctions.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/20/source/UnitFunctions.pas
+END
+Kharne.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/21/source/Kharne.dpr
+END
+UnitVars.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/source/UnitVars.pas
+END
+UnitDefines.pas
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/19/source/UnitDefines.pas
+END
+UnitOtherFuncs.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/source/UnitOtherFuncs.pas
+END
+UnitInterfaces.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/source/UnitInterfaces.pas
+END
+UnitWizard.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/source/UnitWizard.dfm
+END
+UnitWizard.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/source/UnitWizard.ddp
+END
+UnitDisplay.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/source/UnitDisplay.dfm
+END
+UnitDisplay.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/source/UnitDisplay.ddp
+END
+UnitSplash.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/source/UnitSplash.pas
+END
+UnitVault.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1/source/UnitVault.pas
+END
+Kharne.dof
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/22/source/Kharne.dof
+END
+UnitDungeon.pas
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/21/source/UnitDungeon.pas
+END
+UnitGame.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/source/UnitGame.pas
+END
+UnitCreature.pas
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/21/source/UnitCreature.pas
+END
+UnitSplash.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/source/UnitSplash.dfm
+END
+Kharne.res
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/22/source/Kharne.res
+END
+UnitSplash.ddp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1/source/UnitSplash.ddp
+END
+UnitHiScores.pas
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/13/source/UnitHiScores.pas
+END
+UnitDataModule.pas
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/source/UnitDataModule.pas
+END
+UnitTimer.pas
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1/source/UnitTimer.pas
+END
+Kharne.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1/source/Kharne.cfg
+END
+UnitVersion.pas
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1/source/UnitVersion.pas
+END
+UnitConst.pas
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/22/source/UnitConst.pas
+END
+UnitMonster.pas
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/source/UnitMonster.pas
+END
+HotLog.pas
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1/source/HotLog.pas
+END

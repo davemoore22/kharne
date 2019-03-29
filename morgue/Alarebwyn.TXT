@@ -1,0 +1,277 @@
+----------------------------------
+Kharne Alpha 0.06 Character File
+----------------------------------
+
+Alarebwyn the Level 6 Dwarf Bandit (Thief)
+
+Began the game on 28/06/2011 22:58:07
+Died 1418 turns later on 28/06/2011 23:12:44 after 0h 14m 37s
+You were killed by a Flesh Golem on Level 2 of the Rancar's Keep
+
+He scored 8735 points
+
+-------
+Summary
+-------
+
+HP: 0/39
+MP  24/24	
+AC: 26	
+EV: 10
+SP: 4
+
+Gold: 2178
+
+XP: 5993/6120
+
+----------
+Attributes
+----------
+
+Strength: 15 (3)
+Agility: 20 (8)
+Endurance: 10 (0)
+Intelligence: 14 (4)
+Resolve: 18 (6)
+Charisma: 15 (3)
+
+------
+Combat
+------
+
+Accuracy: 18
+Damage: 11
+Blocking: 11
+Deflection: 17
+
+------
+Skills
+------
+
+Fighting: 6
+ Melee Combat: 0
+ Ranged Combat: 3
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 1
+ Medium Armour: 1
+ Light Armour: 3
+
+Subterfuge: 10
+ Stealth: 2
+ Thievery: 3
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 21
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Leather Cap [2, +2] of Construct Slaying (1120 gp)
+  
+it increases your damage against constructs (+4)
+it increases your armour class (+2)
+
+Neck: The ancient artifact "Jerorend" (7026 gp)
+  
+it increases your evasion (+12)
+it increases your evasion (+6)
+it increases your chance to hit (+4)
+it increases your armour class (+3)
+it increases your charisma (+2)
+
+Chest: A Steel Chain Shirt [6, +3] of Steadfastness (892 gp)
+  
+it increases your armour class (+3)
+it increases your resolve (+2)
+
+Arms: Some Mithril Vambraces [4, +3] of the Poisoner (1234 gp)
+  
+it increases your resistance to poison (+21)
+it increases your armour class (+3)
+
+Hands: Some Leather Gloves [2, +2] of Brawn (1062 gp)
+  
+it increases your armour class (+2)
+it increases your strength (+2)
+
+Legs: The ancient artifact "Kedilap" (2448 gp)
+  
+it increases your damage against giants (+5)
+it increases your damage against constructs (+5)
+it increases your armour class (+4)
+
+Feet: Some Hide Boots [2, +2] (286 gp)
+  
+it increases your armour class (+2)
+
+Mainhand: The ancient artifact "Adrelalath" (3789 gp)
+  
+it increases your chance of avoiding a blow (+13)
+it increases the damage you deal (+4)
+it increases your chance to hit (+3)
+
+Offhand: An Adamantine Kite Shield [4, +3] of Combat Mastery (2647 gp)
+  
+it increases your chance to hit (+4)
+it increases your armour class (+3)
+it increases your regeneration 
+
+Ranged: A Beech Crossbow [+2, +6] of Striking (2955 gp)
+  
+it increases the damage you deal (+4)
+it increases the damage you deal (+2)
+it increases your chance to hit (+2)
+
+Back: [EMPTY]
+Left Finger: An Adamantine Ring of Deflection (1647 gp)
+  
+it increases your chance of avoiding a blow (+9)
+it increases your damage against goblins (+2)
+
+Right Finger: A Copper Ring of Absorption (1502 gp)
+  
+it increases your chance of blocking blows (+5)
+it increases your agility (+2)
+
+
+Carried:
+
+Some Mushrooms (1 gp)
+A Haunch of Meat (1 gp)
+The ancient artifact "Boiv" (3744 gp)
+  
+it increases your rsistance to lifedraining (+36)
+it increases your charisma (+3)
+it increases your resolve (+1)
+
+The ancient artifact "Felamar" (3831 gp)
+  
+it increases your resistance to water magic (+36)
+it increases your damage against constructs (+4)
+it increases your damage against elementals (+3)
+
+Some Hide Gloves [2, +3] of Vigilance (1070 gp)
+  
+it increases your armour class (+3)
+it increases your alertness 
+
+The ancient artifact "Kediwin" (3228 gp)
+  
+it increases the damage you deal (+3)
+it increases your chance to hit (+3)
+it increases your endurance (+2)
+
+
+-----------
+Exploration
+-----------
+
+You visited 2 unique levels of the Multiverse:
+
+Rancar's Keep : 2
+
+-------
+Dungeon
+-------
+
+#####....)......%..##
+#####...........%$.##
+############+####.###
+############.####.###
+##############~.#....
+###########]###g#####
+#########\@")+#.#####
+###########G###+#####
+....+....#####+.#####
+###############.#####
+###############.#####
+###############.#####
+$##############.#####
+
+You could see: 
+ G Flesh Golem
+
+--------
+Messages
+--------
+
+You hit the Drow
+You have killed the Drow!
+There are a number of items here:
+A Fancy Mithril Amulet, a Zinc Medium Shield
+You see a Polished Steel Short Sword here
+There are a number of items here:
+A Fancy Mithril Amulet, a Zinc Medium Shield
+There are a set of stairs leading upwards here
+You see a Runed Steel Dagger here
+You open the door
+You have been interrupted - something is nearby!
+A Flesh Golem appears!
+The Flesh Golem pummels you
+There are a set of stairs leading upwards here
+You see a Runed Steel Dagger here
+You hit the Flesh Golem
+You hit the Flesh Golem
+The Flesh Golem crushes you
+You were killed by a Flesh Golem
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 11 Naga
+ 4 Jellys
+ 3 Flesh Golems
+ 2 Oozes
+ 2 Desperate Adventurers
+ 1 Gargoyle
+ 1 PrimalJelly
+ 1 Wight
+ 2 Drow
+
+Total: 27 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000029 The Nexus 0               Reached Level 2, HP: 13/13, MP: 8/8
+0000031 The Nexus 0               Reached Level 3, HP: 18/18, MP: 12/12
+0000032 The Nexus 0               Reached Level 4, HP: 24/24, MP: 16/16
+0000034 The Nexus 0               Reached Level 5, HP: 31/31, MP: 20/20
+0000713 Rancar's Keep 1           Reached Level 6, HP: 31/39, MP: 24/24
+0001392 Rancar's Keep 2           Explored Level 2 of Rancar's Keep
+0001418 Rancar's Keep 2           Killed by a Flesh Golem
+

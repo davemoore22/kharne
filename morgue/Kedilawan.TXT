@@ -1,0 +1,329 @@
+----------------------------------
+Kharne Alpha 0.05c Character File
+----------------------------------
+
+Kedilawan the Level 13 Dwarf Soldier (Warrior)
+
+Began the game on 29/08/2010 02:15:50
+Died 7587 turns later on 29/08/2010 02:48:45 after 0h 32m 54s
+You were killed by an Ice Drake on Level 1 of the Plane of Water
+
+He scored 35277 points
+
+-------
+Summary
+-------
+
+HP: 0/234
+MP  52/52	
+AC: 23	
+EV: 16
+SP: 4
+
+Gold: 1510
+
+XP: 24582/28730
+
+----------
+Attributes
+----------
+
+Strength: 16 (5)
+Agility: 14 (4)
+Endurance: 14 (4)
+Intelligence: 14 (4)
+Resolve: 14 (4)
+Charisma: 12 (2)
+
+------
+Combat
+------
+
+Accuracy: 20
+Damage: 7
+Blocking: 18
+Deflection: 18
+
+------
+Skills
+------
+
+Fighting: 23
+ Melee Combat: 15
+ Ranged Combat: 1
+ Unarmed Combat: 0
+
+Defense: 36
+ Heavy Armour: 18
+ Medium Armour: 1
+ Light Armour: 24
+
+Subterfuge: 3
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 15
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Woolen Hat [1, +1] of Brawn (184 gp)
+  
+it increases your armour class (+1)
+it increases your strength (+1)
+
+Neck: A Steel Amulet of Combat Mastery (348 gp)
+  
+it increases your chance to hit (+1)
+
+Chest: A Copper Breastplate [8, +0] (20 gp)
+Arms: Some Bronze Wristguards [3, +3] of Protection (81 gp)
+  
+it increases your armour class (+3)
+
+Hands: Some Woolen Mittens [1, +6] of Protection (154 gp)
+  
+it increases your armour class (+5)
+it increases your armour class (+1)
+
+Legs: Some Adamantine Greaves [6, +0] (10 gp)
+Feet: Some Steel Sabatons [4, +9] of Protection (232 gp)
+  
+it increases your armour class (+4)
+it increases your armour class (+3)
+it increases your armour class (+2)
+
+Mainhand: An Iron Halberd [+6, +6] of Striking (4816 gp)
+  
+it increases your chance to hit (+4)
+it increases the damage you deal (+4)
+it increases the damage you deal (+2)
+it increases your chance to hit (+2)
+
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: An Iron Ring of Combat Mastery (202 gp)
+  
+it increases your chance to hit (+1)
+
+Right Finger: A Steel Ring of the Torrents (631 gp)
+  
+it increases your resistance to water magic (+15)
+
+
+Carried:
+
+2 Scrolls of Teleportation (52 gp)
+  
+A Steel Amulet of Goblin Slaying {Cursed} (74 gp)
+  
+it decreases your damage against goblins (-1)
+
+A Scroll of Teleportation (52 gp)
+  
+Some Cotton Mittens [1, +3] (409 gp)
+  
+it increases your armour class (+3)
+
+A Sedimented Orange Potion (120 gp)
+  
+The ancient artifact "Filigord" (1113 gp)
+  
+it increases your damage against giants (+1)
+it increases your chance to hit (+1)
+it increases the damage you deal (+1)
+it increases your chance to hit (+1)
+it increases the damage you deal (+1)
+
+A Haunch of Meat (1 gp)
+2 Loaves of Bread (1 gp)
+5 Waybread (1 gp)
+Some Trail Rations (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 13 unique levels of the Multiverse:
+
+The Mausoleum : 1
+The Fortress of Ablach : 10
+Plane of Fire : 1
+Plane of Water : 1
+
+-------
+Dungeon
+-------
+
+...#....#############
+$..#....#############
+..........###########
+..d.......###########
+...##.....###########
+..###......d#########
+..###.....@..........
+..#####...##.......~~
+..####...###........~
+..####..####.........
+..###$.####.......#..
+..$...######......###
+......######.....####
+
+You could see: 
+ d Ice Drake
+
+--------
+Messages
+--------
+
+Your hard work and perseverance has paid off. You have
+gained a level. Welcome to Level 13
+You have gained 26 HP and 4 MP.
+You have gained some skills
+The Ice Drake breaths on you but you deflect its attack
+The Ice Drake breaths on you but you block its attack
+The Ice Drake breaths on you but misses
+The Ice Drake breaths on you
+The Ice Drake breaths on you
+The Ice Drake hits you
+The Ice Drake hits you
+You hit the Ice Drake
+The Ice Drake breaths on you but misses
+The Ice Drake hits you but you deflect its attack
+The Ice Drake hits you
+The Ice Drake breaths on you
+You hit the Ice Drake
+The Ice Drake hits you
+You were killed by an Ice Drake
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 20 Goblins
+ 22 Kobolds
+ 13 Greedy Adventurers
+ 13 Xvarts
+ 2 Giant Ants
+ 6 Initiate Rune Hunters
+ 7 Quokkas
+ 6 Hobgoblins
+ 9 Gnolls
+ 1 Executioner Intruder
+ 1 Hellhound Vanguard
+ 20 Wargs
+ 9 Quaggoths
+ 15 Troggs
+ 1 Executioner Vanguard
+ 1 Fiend Intruder
+ 1 Marillith Intruder
+ 1 Earth Elemental Vanguard
+ 1 Earth Dragon Intruder
+ 27 Desperate Adventurers
+ 22 Ogres
+ 17 Ogre Magi
+ 18 Hill Giants
+ 4 Zombies
+ 1 Troll
+ 2 Griffons
+ 1 Manticore
+ 19 Minotaurs
+ 13 Cyclopes
+ 2 Wyverns
+ 1 Large Snake
+ 1 Giant Beetle
+ 1 Phantom Intruder
+ 16 Ettins
+ 4 Savage Rune Hunters
+ 2 Fire Dragons
+ 1 Fire Drake Intruder
+ 1 Fire Fiend Intruder
+ 1 Fire Fiend Vanguard
+ 3 Fire Giants
+ 2 Flying Skulls
+ 4 Skeletons
+ 1 Rune Thief
+ 1 Ice Drake
+ 1 Ice Giant
+
+Total: 315 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Kedilawan the Dwarf Warrior started to explore the Multiverse
+0000440 The Fortress of Ablach 1  Reached Level 2, HP: 28/28, MP: 8/8
+0000453 The Fortress of Ablach 1  Identified The ancient artifact "Filigord"
+0000535 The Fortress of Ablach 1  Gained Skill Level 5 in Heavy Armour
+0000938 The Fortress of Ablach 1  Gained Skill Level 5 in Melee
+0001241 The Fortress of Ablach 2  Explored Level 2 of The Fortress of Ablach
+0001355 The Fortress of Ablach 3  Explored Level 3 of The Fortress of Ablach
+0001368 The Fortress of Ablach 4  Explored Level 4 of The Fortress of Ablach
+0001394 The Fortress of Ablach 3  Reached Level 3, HP: 40/40, MP: 12/12
+0001491 The Fortress of Ablach 3  Reached Level 4, HP: 53/53, MP: 16/16
+0001567 The Fortress of Ablach 4  Gained Skill Level 10 in Fighting
+0002083 The Fortress of Ablach 4  Reached Level 5, HP: 67/67, MP: 20/20
+0002083 The Fortress of Ablach 4  Gained Skill Level 10 in Defense
+0002212 The Fortress of Ablach 5  Explored Level 5 of The Fortress of Ablach
+0002376 The Fortress of Ablach 5  Gained Skill Level 5 in Light Armour
+0002477 The Fortress of Ablach 6  Explored Level 6 of The Fortress of Ablach
+0002481 The Fortress of Ablach 6  Reached Level 6, HP: 82/82, MP: 24/24
+0002579 The Fortress of Ablach 7  Explored Level 7 of The Fortress of Ablach
+0002930 The Fortress of Ablach 7  Gained Skill Level 15 in Defense
+0002972 The Fortress of Ablach 7  Reached Level 7, HP: 99/99, MP: 28/28
+0003204 The Fortress of Ablach 8  Explored Level 8 of The Fortress of Ablach
+0003257 The Fortress of Ablach 9  Explored Level 9 of The Fortress of Ablach
+0003258 The Fortress of Ablach 9  Gained Skill Level 15 in Fighting
+0003258 The Fortress of Ablach 9  Reached Level 8, HP: 60/118, MP: 32/32
+0003295 The Fortress of Ablach 9  Gained Skill Level 10 in Heavy Armour
+0003342 The Fortress of Ablach 9  Gained Skill Level 10 in Melee
+0003586 The Fortress of Ablach 9  Gained Skill Level 10 in Light Armour
+0003726 The Fortress of Ablach 9  Gained Skill Level 20 in Defense
+0003946 The Fortress of Ablach 10 Explored Level 10 of The Fortress of Ablach
+0004054 The Fortress of Ablach 10 Reached Level 9, HP: 118/138, MP: 36/36
+0004466 The Fortress of Ablach 10 Reached Level 10, HP: 85/160, MP: 40/40
+0004573 The Fortress of Ablach 10 Gained Skill Level 25 in Defense
+0004781 The Fortress of Ablach 10 Gained Skill Level 15 in Light Armour
+0005870 The Fortress of Ablach 9  Reached Level 11, HP: 117/183, MP: 44/44
+0005929 The Fortress of Ablach 9  Gained Skill Level 15 in Heavy Armour
+0006100 The Fortress of Ablach 9  Gained Skill Level 30 in Defense
+0006261 The Fortress of Ablach 9  Gained Skill Level 20 in Light Armour
+0006389 The Fortress of Ablach 8  Reached Level 12, HP: 178/208, MP: 48/48
+0007392 The Mausoleum 1           Gained Skill Level 35 in Defense
+0007581 Plane of Water 1          Gained Skill Level 15 in Melee
+0007581 Plane of Water 1          Reached Level 13, HP: 27/234, MP: 52/52
+0007587 Plane of Water 1          Killed by an Ice Drake
+

@@ -1,0 +1,183 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Palish the Level 1 halfling Thief
+
+Began the game on 21/02/2010 01:28:02
+Died 18 turns later on 21/02/2010 01:28:17 after 0h 0m 15s
+You were killed by a Naga on Level 1 of the The Fortress of Ablach
+
+He scored 47 points
+
+-------
+Summary
+-------
+
+HP: 0/12
+MP  2/2	
+AC: 5	
+EV: 16
+SP: 6
+
+Gold: 0
+
+XP: 26/170
+
+----------
+Attributes
+----------
+
+Strength: 18 (8)
+Agility: 20 (10)
+Endurance: 20 (10)
+Intelligence: 8 (-2)
+Resolve: 8 (-2)
+Charisma: 10 (0)
+
+------
+Combat
+------
+
+Accuracy: 3
+Damage: 2
+Blocking: 1
+Deflection: 1
+
+------
+Skills
+------
+
+Fighting: 2
+ Melee Combat: 1
+ Ranged Combat: 2
+ Unarmed Combat: 0
+
+Defense: 2
+ Heavy Armour: 0
+ Medium Armour: 0
+ Light Armour: 3
+
+Subterfuge: 5
+ Stealth: 1
+ Thievery: 2
+
+-----
+Magic
+-----
+
+Base Skill: 0
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 0
+ Protection: 0
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Felt Hat [1, +0] (2 gp)
+Neck: [EMPTY]
+Chest: A Satin Tunic [2, +0] (2 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Silk Pantaloons [1, +0] (4 gp)
+Feet: Some Cotton Socks [1, +0] (1 gp)
+Mainhand: A Steel Dagger [+0, +0] (1 gp)
+Offhand: [EMPTY]
+Ranged: A Cedar Longbow [+0, +0] (5 gp)
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Fruit (1 gp)
+A Loaf of Bread (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#####################
+#########~~~~~~~~~###
+#########~~~~~~~~~###
+#########~~~~~~~~~###
+####~~~~~~~#\##~~~..#
+####~##+#~~#<~#~~~%.#
+####~#N~~~@####~~~..#
+####~#~#~~~~~~~~~~###
+####~#]~)~~~~~~~~~###
+~~~g~#####~##########
+###g~~~~~~~~#########
+###~.################
+#####################
+
+--------
+Messages
+--------
+
+You hit the Quokka
+The Quokka stabs you but misses
+You hit the Quokka
+The Quokka swings at you but misses
+The Quokka swings at you
+You hit the Quokka
+The Quokka hits you but misses
+You hit the Quokka
+The Quokka stabs you but misses
+The Quokka stabs you but misses
+You hit the Quokka
+The Quokka swings at you but misses
+You hit the Quokka
+You have killed the Quokka!
+A Naga appears!
+The Naga blasts you
+Ouch! That really hurt!
+*** LOW HITPOINT WARNING ***
+You were killed by a Naga
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Quokka
+
+Total: 1 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000018 The Fortress of Ablach 1  Killed by a Naga
+

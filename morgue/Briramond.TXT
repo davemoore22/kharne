@@ -1,0 +1,188 @@
+----------------------------------
+Kharne Alpha 0.05b Character File
+----------------------------------
+
+Briramond the Level 1 human Knight
+
+Began the game on 27/02/2010 21:33:23
+Died 34 turns later on 27/02/2010 21:33:46 after 0h 0m 22s
+You were killed by a Kobold on Level 1 of the The Fortress of Ablach
+
+He scored 33 points
+
+-------
+Summary
+-------
+
+HP: 0/15
+MP  3/3	
+AC: 18	
+EV: 10
+SP: 4
+
+Gold: 0
+
+XP: 13/170
+
+----------
+Attributes
+----------
+
+Strength: 16 (6)
+Agility: 12 (2)
+Endurance: 16 (6)
+Intelligence: 8 (-2)
+Resolve: 16 (6)
+Charisma: 16 (6)
+
+------
+Combat
+------
+
+Accuracy: 2
+Damage: 1
+Blocking: 0
+Deflection: 0
+
+------
+Skills
+------
+
+Fighting: 4
+ Melee Combat: 2
+ Ranged Combat: 0
+ Unarmed Combat: 0
+
+Defense: 1
+ Heavy Armour: 2
+ Medium Armour: 1
+ Light Armour: 0
+
+Subterfuge: 0
+ Stealth: 0
+ Thievery: 0
+
+-----
+Magic
+-----
+
+Base Skill: 2
+ Elemental Fire: 0
+ Elemental Water: 0
+ Elemental Air: 0
+ Elemental Earth: 0
+ Nature: 0
+ Healing: 0
+ Cursing: 0
+ Combat: 2
+ Protection: 2
+ Lore: 0
+
+-----------
+Resistances
+-----------
+
+Base Resistance: 0
+ Fire: 0
+ Earth: 0
+ Air: 0
+ Water: 0
+ Poison: 0
+ Lifedraining: 0
+
+---------
+Inventory
+---------
+
+Head: A Mithril Coif [3, +0] (6 gp)
+Neck: [EMPTY]
+Chest: A Tin Chain Shirt [6, +0] (16 gp)
+Arms: [EMPTY]
+Hands: [EMPTY]
+Legs: Some Copper Greaves [6, +0] (10 gp)
+Feet: Some Steel Kickers [3, +0] (4 gp)
+Mainhand: A Mithril Halberd [+0, +0] (16 gp)
+Offhand: [EMPTY]
+Ranged: [EMPTY]
+Back: [EMPTY]
+Left Finger: [EMPTY]
+Right Finger: [EMPTY]
+
+Carried:
+
+2 Haunches of Meat (1 gp)
+Some Fruit (1 gp)
+
+-----------
+Exploration
+-----------
+
+You visited 1 unique levels of the Multiverse:
+
+The Fortress of Ablach : 1
+
+-------
+Dungeon
+-------
+
+#################~#"h
+#################~###
+~~~~~~~$.........~~~~
+~~~~~~~..........<###
+#####~~..$~~......###
+##~##~~~..~g~~....###
++~<~\)~...@k.~..kk###
+##~##~~...~..~$...###
+#####~~.......#######
+~~~~~~~##############
+#####################
+#####################
+#####################
+
+You could see: 
+ kk Kobolds
+ g Xvart
+
+--------
+Messages
+--------
+
+The Kobold shoots you but misses
+You see a Zinc Warhammer here
+The Kobold hits you but misses
+The Kobold says "I'm gonna kill you! Yip yip!"
+The Kobold shoots you but your armour absorbs the blow
+You hit the Kobold
+The Kobold shoots you but your armour absorbs the blow
+You hit the Kobold
+The Kobold shoots you
+A Xvart appears!
+A Kobold appears!
+The Xvart shooes you away
+The Kobold shoots you but your armour absorbs the blow
+The Kobold shoots you but misses
+A Kobold appears!
+The Xvart stabs you but misses
+The Xvart swings at you but misses badly
+The Kobold shoots you
+You were killed by a Kobold
+You are dead...
+
+
+-------------
+Defeated Foes
+-------------
+
+ 1 Greedy Adventurer
+
+Total: 1 creatures defeated
+
+-----
+Notes
+-----
+
+Turn    Place                     Note
+--------------------------------------------------------------
+0000000 The Nexus 0               Briramond the Human Knight started to explore the Multiverse
+0000034 The Fortress of Ablach 1  Killed by a Kobold
+
